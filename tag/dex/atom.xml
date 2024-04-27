@@ -35,22 +35,22 @@
     })()
   </script>
   <link
-    href="/assets/css/themes/default/assets/fonts/outline-icons.woff2"
+    href="/lightrainstech/assets/css/themes/default/lightrainstech/assets/fonts/outline-icons.woff2"
     rel="preload"
     as="font"
   />
   <link
-    href="/assets/css/themes/default/assets/fonts/brand-icons.woff2"
+    href="/lightrainstech/assets/css/themes/default/lightrainstech/assets/fonts/brand-icons.woff2"
     rel="preload"
     as="font"
   />
   <link
-    href="/assets/css/themes/default/assets/fonts/icons.woff2"
+    href="/lightrainstech/assets/css/themes/default/lightrainstech/assets/fonts/icons.woff2"
     rel="preload"
     as="font"
   />
-   <link rel="preload" href="/assets/css/bundle-front.min.css" as="style"> <link rel="stylesheet" href="/assets/css/bundle-front.min.css">
-  <link href="/assets/js/bundle-front.min.js" rel="preload" as="script" />
+   <link rel="preload" href="/lightrainstech/assets/css/bundle-front.min.css" as="style"> <link rel="stylesheet" href="/lightrainstech/assets/css/bundle-front.min.css">
+  <link href="/lightrainstech/assets/js/bundle-front.min.js" rel="preload" as="script" />
   <link
     rel="canonical"
     href="/tag/dex/atom.xml"
@@ -61,39 +61,39 @@
     rel="amphtml"
     href="/amp"
   />
-  <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicons/android-chrome-192x192.png">
-<link rel="manifest" href="/assets/favicons/manifest.json">
+  <link rel="icon" type="image/png" sizes="192x192" href="/lightrainstech/assets/favicons/android-chrome-192x192.png">
+<link rel="manifest" href="/lightrainstech/assets/favicons/manifest.json">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="theme-color" content="#FFFFFF">
 <meta name="application-name" content="Lightrains Tech">
-<link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/lightrainstech/assets/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/lightrainstech/assets/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/lightrainstech/assets/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/lightrainstech/assets/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/lightrainstech/assets/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/lightrainstech/assets/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/lightrainstech/assets/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/lightrainstech/assets/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/lightrainstech/assets/favicons/apple-touch-icon-180x180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Lightrains Tech">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicons/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="230x230" href="/assets/favicons/favicon-230x230.png">
-<link rel="shortcut icon" href="/assets/favicons/favicon.ico">
-<meta property="twitter:image" content="/assets/favicons/twitter.png">
-<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/assets/favicons/apple-touch-startup-image-320x460.png">
-<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-640x920.png">
-<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-640x1096.png">
-<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-750x1294.png">
-<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/assets/favicons/apple-touch-startup-image-1182x2208.png">
-<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/assets/favicons/apple-touch-startup-image-1242x2148.png">
-<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/assets/favicons/apple-touch-startup-image-748x1024.png">
-<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/assets/favicons/apple-touch-startup-image-768x1004.png">
-<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-1496x2048.png">
-<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-1536x2008.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/lightrainstech/assets/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/lightrainstech/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/lightrainstech/assets/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="230x230" href="/lightrainstech/assets/favicons/favicon-230x230.png">
+<link rel="shortcut icon" href="/lightrainstech/assets/favicons/favicon.ico">
+<meta property="twitter:image" content="/lightrainstech/assets/favicons/twitter.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-640x920.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-640x1096.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-750x1294.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-1182x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-1242x2148.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-748x1024.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-768x1004.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-1496x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/lightrainstech/assets/favicons/apple-touch-startup-image-1536x2008.png">
 </head>
   <body
     id="page-post"
@@ -735,11 +735,11 @@
             "url": "https://nikhilmohan.in/",
             "sameAs": ["https://twitter.com/niksmac_", "https://github.com/niksmac"]
         },
-        "logo": "/assets/img/lightrains-logo.png",
+        "logo": "/lightrainstech/assets/img/lightrains-logo.png",
         "sameAs": ["https://twitter.com/lightrainstech","https://medium.com/lightrains","https://www.facebook.com/lightrainstechnolabs","http://www.linkedin.com/company/1322794","https://github.com/lightrainstech"]
     }
 </script>
-<script src="/assets/js/bundle-front.min.js"></script>
+<script src="/lightrainstech/assets/js/bundle-front.min.js"></script>
    </div>
   </body>
 
