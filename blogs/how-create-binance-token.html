@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How to create and issue token on Binance Chain #BinanceToken</title>
+  <meta name="description" content="Binance dex where users can issue the token and exchange digital assets based on the binance chain" />
+<meta property="og:url" content="https://lightrains.com/blogs/how-create-binance-token">
+<meta property="og:type" content="website">
+<meta property="og:title" content="How to create and issue token on Binance Chain">
+<meta property="og:image" content="https://lightrains.com/assets/img/blog/create-binance-token.png">
+<meta name="twitter:image" content="https://lightrains.com/assets/img/blog/create-binance-token.png">
+<meta property="og:description" content="Binance DEX where users can issue the token and exchange digital assets based on the Binance Chain.">
+<meta property="og:site_name" content="Lightrains Technolabs">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="Nikhil M, ">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@lightrainstech">
+<meta name="twitter:creator" content="@niksmac_">
+<meta name="twitter:url" content="https://lightrains.com/blogs/how-create-binance-token">
+<meta name="twitter:title" content="How to create and issue token on Binance Chain">
+<meta name="twitter:description" content="Binance DEX where users can issue the token and exchange digital assets based on the Binance Chain.">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
+  <script type="text/javascript">
+    WebFontConfig = {
+      google: {
+        families: ['Merriweather+Sans:400,400i,700,700i&display=swap']
+      }
+    }
+    ;(function () {
+      var wf = document.createElement('script')
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'
+      wf.type = 'text/javascript'
+      wf.async = 'true'
+      var s = document.getElementsByTagName('script')[0]
+      s.parentNode.insertBefore(wf, s)
+    })()
+  </script>
+  <link
+    href="https://lightrains.com/assets/css/themes/default/assets/fonts/outline-icons.woff2"
+    rel="preload"
+    as="font"
+  />
+  <link
+    href="https://lightrains.com/assets/css/themes/default/assets/fonts/brand-icons.woff2"
+    rel="preload"
+    as="font"
+  />
+  <link
+    href="https://lightrains.com/assets/css/themes/default/assets/fonts/icons.woff2"
+    rel="preload"
+    as="font"
+  />
+   <link rel="preload" href="/assets/css/bundle-front.min.css" as="style"> <link rel="stylesheet" href="/assets/css/bundle-front.min.css">
+  <link href="/assets/js/bundle-front.min.js" rel="preload" as="script" />
+  <link
+    rel="canonical"
+    href="https://lightrains.com/blogs/how-create-binance-token"
+  />
+  <link rel="alternate" type="application/rss+xml" title="Lightrains Technolabs"
+  href="https://lightrains.com/feed.xml">
+  <link
+    rel="amphtml"
+    href="https://lightrains.com/amp/blogs/how-create-binance-token"
+  />
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicons/android-chrome-192x192.png">
+<link rel="manifest" href="/assets/favicons/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="application-name" content="Lightrains Tech">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Lightrains Tech">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="230x230" href="/assets/favicons/favicon-230x230.png">
+<link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+<meta property="twitter:image" content="https://lightrains.com/assets/favicons/twitter.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/assets/favicons/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-640x920.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-640x1096.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-750x1294.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/assets/favicons/apple-touch-startup-image-1182x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/assets/favicons/apple-touch-startup-image-1242x2148.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/assets/favicons/apple-touch-startup-image-748x1024.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/assets/favicons/apple-touch-startup-image-768x1004.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-1496x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/assets/favicons/apple-touch-startup-image-1536x2008.png">
+</head>
+  <body
+    id="page-blog"
+    class="page page-blog path-inner"
+  >
+   <div class="ui top big sidebar vertical menu">
+      <a class="item" href="/">
+        <i class="large home icon"></i>
+        Home
+      </a>
+      <a class="item" href="/about/lightrains">
+        <i class="large smile icon"></i>
+        About Us
+      </a>
+      <a class="item" href="/about/careers">
+        <i class="large code icon"></i>
+        Careers
+      </a>
+      <a class="item" href="/about/portfolio">
+        <i class="large shipping icon"></i>
+        Portfolio
+      </a>
+      <a class="item" href="/consulting">
+        <i class="large spy icon"></i>
+        Consulting
+      </a>
+      <a class="item" href="/blogs">
+        <i class="large block layout icon"></i>
+        Blog
+      </a>
+      <a class="item" href="/about/contact">
+        <i class="large send icon"></i>
+        Contact
+      </a>
+   </div>
+   <div class="pusher">
+     <div class="ui container">
+        <header class="site-header">
+   <div class="widescreen computer mobile only">
+       <div class="ui secondary menu">
+            <a href="/" class="item left" title="Home of Lightrains Technolabs"
+                ><svg
+                    width="48px"
+                    height="48px"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    style="background: #292724;"
+                >
+                   <path
+                        fill="#FFFFFF"
+                        fill-rule="evenodd"
+                        d="M129.208 137.544l2.8 5.676-.1 21.412c0 11.75-.4 45.114-.7 74.193l-.7 52.782 12.702-13.046c10.902-11.05 22.003-22.5 63.81-65.62 3.3-3.38 16.202-16.73 28.604-29.48 12.5-12.84 25.703-26.49 29.304-30.27 21.102-21.81 24.202-24.8 29.604-27.19 11.602-5.38 25.104-2.49 33.705 7.17 6.6 7.47 7.2 10.96 7.9 44.92.3 16.43.7 29.98.902 30.18.2.2 6.3-3.784 13.7-8.962 7.3-5.08 15.8-10.956 18.8-12.95 3-2.09 8.4-5.774 12-8.363 3.6-2.49 13.5-9.163 22-14.84 21.3-14.04 31.5-19.02 33.8-16.133 3 3.68-4.1 15.733-28.41 47.9-11.905 15.83-22.106 29.28-22.606 29.874-.5.6-3.3 4.184-6.1 8.068-34.707 46.41-51.41 67.72-54.91 70.31-17.703 12.65-43.107 1.1-45.307-20.61-.3-2.69-.7-16.93-1-31.67-.2-14.74-.6-26.99-.8-27.087-.2-.2-9.8 9.26-21.303 21.21-11.5 11.85-23.6 24.3-26.9 27.686-3.3 3.385-15.7 16.13-27.505 28.38-11.8 12.15-26.003 26.79-31.504 32.467-5.5 5.677-19.2 19.72-30.5 31.37-23.4 24.096-26.4 26.19-38.004 26.09-11.1 0-20.605-5.775-25.806-15.635l-2.7-5.08.1-112.533c0-127.87-.6-118.81 8.3-127.87 8.5-8.663 22.806-11.45 32.807-6.273 6.6 3.387 11.004 7.77 14.004 13.944z"
+                    />
+                </svg>
+            </a>
+            <a href="/" class="item right" id="mobmenu"
+                ><i class="content right big icon"></i
+            ></a>
+       </div>
+   </div>
+   <div class="ui secondary pointing menu large screen only">
+       <div class="left menu">
+            <a href="/" title="Home of Lightrains Technolabs">
+                <svg
+                    width="64px"
+                    height="64px"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    style="background: #292724;"
+                >
+                   <path
+                        fill="#FFFFFF"
+                        fill-rule="evenodd"
+                        d="M129.208 137.544l2.8 5.676-.1 21.412c0 11.75-.4 45.114-.7 74.193l-.7 52.782 12.702-13.046c10.902-11.05 22.003-22.5 63.81-65.62 3.3-3.38 16.202-16.73 28.604-29.48 12.5-12.84 25.703-26.49 29.304-30.27 21.102-21.81 24.202-24.8 29.604-27.19 11.602-5.38 25.104-2.49 33.705 7.17 6.6 7.47 7.2 10.96 7.9 44.92.3 16.43.7 29.98.902 30.18.2.2 6.3-3.784 13.7-8.962 7.3-5.08 15.8-10.956 18.8-12.95 3-2.09 8.4-5.774 12-8.363 3.6-2.49 13.5-9.163 22-14.84 21.3-14.04 31.5-19.02 33.8-16.133 3 3.68-4.1 15.733-28.41 47.9-11.905 15.83-22.106 29.28-22.606 29.874-.5.6-3.3 4.184-6.1 8.068-34.707 46.41-51.41 67.72-54.91 70.31-17.703 12.65-43.107 1.1-45.307-20.61-.3-2.69-.7-16.93-1-31.67-.2-14.74-.6-26.99-.8-27.087-.2-.2-9.8 9.26-21.303 21.21-11.5 11.85-23.6 24.3-26.9 27.686-3.3 3.385-15.7 16.13-27.505 28.38-11.8 12.15-26.003 26.79-31.504 32.467-5.5 5.677-19.2 19.72-30.5 31.37-23.4 24.096-26.4 26.19-38.004 26.09-11.1 0-20.605-5.775-25.806-15.635l-2.7-5.08.1-112.533c0-127.87-.6-118.81 8.3-127.87 8.5-8.663 22.806-11.45 32.807-6.273 6.6 3.387 11.004 7.77 14.004 13.944z"
+                    />
+                </svg>
+            </a>
+       </div>
+       <div class="right menu" id="menu">
+           <div class="ui dropdown pointing item">
+                About<i class="dropdown icon"></i>
+               <div class="menu">
+                    <a
+                        class="item"
+                        title="About Lightrains Technolabs"
+                        href="/about/lightrains"
+                        >About Us</a
+                    >
+                    <a
+                        class="item"
+                        title="Careers at Lightrains Technolabs"
+                        href="/about/careers"
+                        >Careers</a
+                    >
+                    <a
+                        class="item"
+                        title="Our Technologies"
+                        href="/about/work-process-technology"
+                        >Our Technologies</a
+                    >
+               </div>
+           </div>
+           <div class="ui dropdown pointing item">
+                Consulting<i class="dropdown icon"></i>
+               <div class="menu">
+                    <a
+                        class="item"
+                        title="Blockchain Consulting"
+                        href="/consulting/blockchain-consulting"
+                        >Blockchain Consulting</a
+                    >
+                    <a
+                        class="item"
+                        title="Smart Contract Development"
+                        href="/consulting/smart-contract-solidity"
+                        >Smart Contract Development</a
+                    >
+                    <a
+                        class="item"
+                        title="NFT Development Services"
+                        href="/consulting/nft-marketplace-development"
+                        >NFT Development Services</a
+                    >
+               </div>
+           </div>
+            <a class="item" href="/about/portfolio">Portfolio</a>
+            <a class="item" title="Blog" href="/blogs">Blog</a>
+            <a class="item" title="Contact Lightrains Technolabs" href="/about/contact"
+                >Contact</a
+            >
+       </div>
+   </div>
+</header>
+     </div>
+     <div class="ui container">
+        <header class="post-header">
+ <h1 class="post-title" id="title">How to create and issue token on Binance Chain</h1>
+</header>
+<div class="ui grid stackable">
+ <div class="ui eleven wide column text page-text">
+   <h2 class="post-subtitle" itemprop="name headline">
+      Binance DEX where users can issue the token and exchange digital assets based on the Binance Chain.
+   </h2>
+      <img class="ui fluid image" loading="lazy"
+    id="tgiv_cover" src="/assets/img/blog/create-binance-token.png" alt="How to create and issue token on Binance Chain">
+   <div class="ui hidden divider"></div>
+<div class="author">
+  by <a href="http://nikhilmohan.in" id="tgiv_author" target="_blank">Nikhil M</a> posted on <span>Mon, Apr 29, 2019</span> in <a href="/tag/binance-token">Binance Token</a> 
+ <div class="ui pointing dropdown icon circular button right floated">
+    <i class="share alternate icon"></i>
+<div class="ui menu">
+    <a
+        href="https://facebook.com/sharer.php?u=https://lightrains.com/blogs/how-create-binance-token"
+        target="_blank"
+        class="item"
+        rel="noopener"
+    >
+        <i class="facebook icon"></i> Facebook
+    </a>
+    <a
+        href="https://plus.google.com/share?url=https://lightrains.com/blogs/how-create-binance-token"
+        target="_blank"
+        class="item"
+        rel="noopener"
+    >
+        <i class="google icon"></i> Google
+    </a>
+    <a
+        href="https://linkedin.com/shareArticle?mini=true&amp;url=https://lightrains.com/blogs/how-create-binance-token"
+        target="_blank"
+        class="item"
+        rel="noopener"
+    >
+        <i class="linkedin icon"></i> Linkedin
+    </a>
+    <a
+        href="https://twitter.com/share?url=https://lightrains.com/blogs/how-create-binance-token&amp;text=How+to+create+and+issue+token+on+Binance+Chain"
+        class="item"
+        target="_blank"
+        rel="noopener"
+    >
+        <i class="twitter icon"></i> Twitter
+    </a>
+    <a
+        href="https://t.me/iv?url=https://lightrains.com/blogs/how-create-binance-token&amp;rhash=491229a0db8077"
+        class="item"
+        target="_blank"
+        rel="noopener"
+    >
+        <i class="send icon"></i> Telegram
+    </a>
+</div>
+ </div>
+</div>
+<div class="ui hidden divider"></div>
+    <article>
+     <p>Binance Chain and Binance DEX are community-driven and created to assist projects that require both fast transactions and improved liquidity in a decentralized manner.</p>
+<p>While anyone can issue their tokens on Binance Chain, the listing of trading pairs on Binance DEX involves 4 main steps: Proposal, Deposit, Vote, and List. However for the sake of easy understanding lets break this even further into;</p>
+<ol>
+  <li>Create a wallet</li>
+  <li>Get test BNB</li>
+  <li>Issue the token</li>
+  <li>Create a proposal to list your token</li>
+  <li>List your token</li>
+</ol>
+<h2 id="1-create-a-wallet">1. Create a wallet</h2>
+<p>You can create an account from the testnet website here <a href="https://testnet.binance.org/create">BinanceTestnet</a>. Enter your strong password and you will need to download the keystore file. <strong>Please backup the mnemonic phrase and save both file and phrase carefully.</strong></p>
+<p>Now you have your keystore file, password and backup mnemonic phrase, you can proceed to next steps.</p>
+<h3 id="11-see-if-you-can-unlock">1.1. See if you can unlock.</h3>
+<p>Go to <a href="https://testnet.binance.org/unlock">binance.org/unlock</a> to unlock your wallet and you can see your address there.</p>
+<h2 id="2-get-test-bnb">2. Get test BNB</h2>
+<p>You need test BNBs to create, list and issue your tokens the fee estimations are the following;</p>
+<ol>
+  <li>Issuing 400 BNB</li>
+  <li>Listing Proposal 2000 BNB</li>
+  <li>Listing 800 BNB</li>
+</ol>
+<p>i.e. 2400 BNB are required for the issuing/listing.</p>
+<p><strong>Steps to get test BNB</strong></p>
+<ul>
+  <li>Register in Binance (Live exchange) <a href="https://www.binance.com/register.html">Register</a></li>
+  <li>Get BNB from test <a href="https://www.binance.com/en/dex/testnet/address">faucet</a></li>
+</ul>
+<blockquote>
+ <p>Each address can only get 200 BNB from the faucet. To get the required test BNB, you may ask for more from your friends or register more addresses in the account, and transfer all test BNB into one wallet.</p>
+</blockquote>
+<h2 id="3-createissue-token">3. Create/Issue token</h2>
+<p>To issue a token you need to have basic unix command line experience. You need to use command line utility called <code class="language-plaintext highlighter-rouge">bnbcli</code> which you can download from <a href="https://github.com/binance-chain/node-binary">binance-chain/node-binary</a>.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git clone git@github.com:binance-chain/node-binary.git
+$ cd ./cli/testnet/mac or cd ./cli/testnet/linux
+$ ./bnbcli
+</code></pre></div></div>
+<p>In some cases you need to set appropriate permissions to get this utility working you can achieve this by typing <code class="language-plaintext highlighter-rouge">chmod a+x bnbcli</code> from a MacOS terminal. Use appropriate command based on your OS/Arch.</p>
+<h3 id="31-import-your-wallet">3.1 Import your wallet</h3>
+<p>You need to import your testnet wallet to the <code class="language-plaintext highlighter-rouge">bnbcli</code> utility with the following steps</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ./bnbcli keys add key01 --recover
+Enter a passphrase for your key:
+Repeat the passphrase:
+&gt; Enter your recovery seed phrase:
+</code></pre></div></div>
+<p>You need to enter your wallet password and then the mnemonic phrase to import the wallet locally. After successful import you will get your new wallet under name <code class="language-plaintext highlighter-rouge">key01</code></p>
+<p><code class="language-plaintext highlighter-rouge">./bnbcli keys list</code> to see whether your keys are imported correctly.</p>
+<p>You should see something like</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>› ./bnbcli keys list
+NAME:	TYPE:	ADDRESS:						    PUBKEY:
+key01	local	tbnb15ppky5sxd0h78en***	bnbp1addwnpe***
+key02	local	tbnb1rh0zpgfmhye042a***	bnbp1addwnpe***
+key03	local	tbnb1gnd743gtq640kqm***	bnbp1addwnpe***
+....
+</code></pre></div></div>
+<h3 id="32-issue-token">3.2. Issue Token</h3>
+<p>See all available command line options under <a href="https://docs.binance.org/tokens.html#issue">Asset Management</a></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ./bnbcli token issue \
+--token-name "Lightrains LIGHT" \
+--total-supply 100000000000000000 \
+--symbol LIGHT \
+--mintable \
+--from key01 \
+--chain-id=Binance-Chain-Nile \
+--node=data-seed-pre-2-s1.binance.org:80 \
+--json \
+--voting-period 7200
+
+</code></pre></div></div>
+<blockquote>
+ <p><code class="language-plaintext highlighter-rouge">--voting-period</code> should be set to 7200, i have tried many values according to Binance doc and this particular value seems to be working all the time.</p>
+</blockquote>
+<p>You will get a responce like</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Committed at block 1887 (tx hash: A06E5AD582E4E92B324F3B05C5D85634FEB, … Issued LIGHT-123…)
+</code></pre></div></div>
+<p>Here we issued a token called LIGHT, the total amount is 1 billion. To avoid abusing, the chain will automatically add three random letters as the suffix. The combined name will be unique on the Chain.</p>
+<h2 id="4-proposal-to-list-token">4. Proposal to list token</h2>
+<p>You will have to create a listing proposal to let validators to vote. You can use the following command to create a listing proposal.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ./bnbcli gov submit-list-proposal \
+--from key01
+--deposit 200000000000:BNB \
+--base-asset-symbol LIGHT-123 \
+--quote-asset-symbol BNB \
+--init-price 100000000 \
+--title "List LIGHT-123/BNB" \
+--description "list LIGHT-123/BNB" \
+--expire-time FUTURE_TIME_EPOCH \
+--chain-id=Binance-Chain-Nile \
+--node=data-seed-pre-2-s1.binance.org:80 \
+--json
+&gt; Password to sign with 'key01':
+</code></pre></div></div>
+<p>It will prompt you to enter password, enter it.</p>
+<p>In this example, we deposited 2000 BNB for the token listing proposal and the initial price is set as 1 BNB. According to the official doc, the initial price must be 1 BNB or the proposal will be rejected.</p>
+<p>On successful proposal you will get a proposal ID, you can get it from the <a href="https://testnet-explorer.binance.org/">explorer</a> or via <code class="language-plaintext highlighter-rouge">bnbcli</code> using</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ./bnbcli gov query-proposals \
+--chain-id=Binance-Chain-Nil \
+--node=data-seed-pre-2-s1.binance.org:80
+ 1 — list BNB/BTC.B-9CE
+ 2 — list XRP.B-2A4/BNB
+ …
+ 415 — list LIGHT-123
+</code></pre></div></div>
+<p>here our proposal id is 415</p>
+<p>According to the announcement, auto-voter is switched on. All the qualified proposal should be voted.</p>
+<h2 id="5-list-your-token">5. List your token</h2>
+<p>Once the proposal is passed, you can them list your token. The fee of listing is 800 BNB.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ./bnbcli dex list -s LIGHT-123 \
+--quote-asset-symbol BNB \
+--from test \
+--init-price 100000000 \
+--proposal-id 415 \
+--chain-id=Binance-Chain-Nile \
+--node=data-seed-pre-2-s1.binance.org:80 \
+--json
+</code></pre></div></div>
+<p><strong>That’s it. Your token is successfully listed now!</strong></p>
+<p><strong>Sources</strong></p>
+<ul>
+  <li><a href="https://community.binance.org/t/guidelines-on-how-to-list-your-token-on-binance-dex-dex/1596">community.binance.org</a></li>
+</ul>
+<div class="cta-blog">
+ <h2 class="ui center aligned icon white header">
+    <i class="spy icon"></i>
+    Talk to one of our  <a href="/consulting/blockchain-consulting">blockchain consultant</a>.
+ </h2>
+ <a href="mailto:hexlxlo@xligxhtrxaxixnxs.com" title="Email to Lightrains Technolabs" class="ui button big black obsa">hexlxlo@xligxhtrxaxixnxs.com</a>
+</div>
+    </article>
+   <div class="ui hidden divider"></div>
+<div class="ui tiny label endorsement">
+  All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
+</div>
+<h4 class="ui horizontal divider header">Write a comment on How to create and issue token on Binance Chain</h2>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+(function() {
+var d = document, s = d.createElement('script');
+s.src = '//lightrainstechnolabs.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+ </div>
+ <div class="ui five wide column">
+   <div class="ui hidden divider"></div>
+    <h3>Posted In</h3>
+<div class="ui black labels">
+  <a href="/tag/binance-chain/" class="ui label" title="Blogs Tagged Binance Chain" >Binance Chain</a>
+  <a href="/tag/binance-dex/" class="ui label" title="Blogs Tagged Binance DEX" >Binance DEX</a>
+  <a href="/tag/binance-token/" class="ui label" title="Blogs Tagged Binance Token" >Binance Token</a>
+  <a href="/tag/dex/" class="ui label" title="Blogs Tagged DEX" >DEX</a>
+  <a href="/tag/token/" class="ui label" title="Blogs Tagged Token" >Token</a>
+  <a href="/tag/tutorial/" class="ui label" title="Blogs Tagged Tutorial" >Tutorial</a>
+</div>
+ <h3>Recent Posts</h3>
+<ul>
+  <li >
+    <a class="header" href="/blogs/nft-standards-erc-721-erc-1155" title="Various NFT Standards">Various NFT Standards</a>
+  </li>
+  <li >
+    <a class="header" href="/blogs/what-is-nft-non-fungible-tokens" title="What is an NFT aka Non Fungible Tokens">What is an NFT aka Non Fungible Tokens</a>
+  </li>
+  <li >
+    <a class="header" href="/blogs/mongodb-solutions-to-data-growth" title="MongoDB Solutions to data growth">MongoDB Solutions to data growth</a>
+  </li>
+  <li >
+    <a class="header" href="/blogs/formsure-alternative-google-forms" title="Why we moved to Formsure from Google Forms">Why we moved to Formsure from Google Forms</a>
+  </li>
+  <li >
+    <a class="header" href="/blogs/walletconnect-protocol-dapps" title="What is WalletConnect protocol">What is WalletConnect protocol</a>
+  </li>
+  <li >
+    <a class="header" href="/blogs/hedera-hashgraph-development-services" title="Hedera Hashgraph Development Services">Hedera Hashgraph Development Services</a>
+  </li>
+</ul>
+<div class="ui items author white">
+ <div class="item">
+   <div class="content">
+      <a class="header" href="http://nikhilmohan.in" rel="author">Nikhil M</a>
+     <div class="description">
+        Entrepreneur / Privacy Freak / Humanist / Blockchain / Ethereum / Elixir / Digital Security / Online Privacy
+     </div>
+     <div class="social">
+        <a href="https://in.linkedin.com/in/niksmac"><i class="linkedin bordered icon"></i></a>
+        <a href="http://github.com/niksmac"><i class="github bordered icon"></i></a>
+        <a href="https://twitter.com/niksmac_"><i class="twitter bordered icon"></i></a>
+        <a href="http://nikhilmohan.in"><i class="browser bordered icon"></i></a>
+     </div>
+   </div>
+ </div>
+</div>
+ </div>
+</div>
+     </div>
+     <div class="fullw">
+       <div class="ui container footer">
+         <div class="ui inverted vertical footer segment">
+   <div class="ui container">
+       <div class="ui inverted divided equal height stackable grid">
+           <div class="two wide column">
+                <h4 class="ui inverted header">About</h4>
+               <div class="ui inverted link relaxed list">
+                    <a
+                        class="item"
+                        title="About Lightrains Technolabs"
+                        href="/about/lightrains"
+                        >About Us</a
+                    >
+                    <a
+                        class="item"
+                        title="Careers at Lightrains Technolabs"
+                        href="/about/careers"
+                        >Careers</a
+                    >
+                    <a class="item" href="/about/portfolio">Portfolio</a>
+                    <a
+                        class="item"
+                        title="Contact Lightrains Technolabs"
+                        href="/about/contact"
+                        >Contact</a
+                    >
+               </div>
+           </div>
+           <div class="four wide column">
+                <h4 class="ui inverted header">Services</h4>
+               <div class="ui inverted link relaxed list">
+                    <a class="item" href="/consulting">Consulting</a>
+                    <a
+                        class="item"
+                        title="Smart Contract Development"
+                        href="/consulting/smart-contract-solidity"
+                        >Smart Contract Development</a
+                    >
+                    <a
+                        class="item"
+                        title="Blockchain Consulting"
+                        href="/consulting/blockchain-consulting"
+                        >Blockchain Consulting</a
+                    >
+                    <a
+                        class="item"
+                        title="NFT Development Services"
+                        href="/consulting/nft-marketplace-development"
+                        >NFT Development Services</a
+                    >
+               </div>
+           </div>
+           <div class="seven wide column">
+                <h4 class="ui inverted header">Connect with us</h4>
+               <div></div>
+               <div class="ui horizontal list centered social">
+  <a class="item" target="_blank" href="https://github.com/lightrainstech"><i class="github outline icon large inverted bordered"></i></a>
+  <a class="item" target="_blank" href="https://twitter.com/lightrainstech"><i class="twitter outline icon large inverted bordered"></i></a>
+  <a class="item" target="_blank" href="https://www.linkedin.com/company/1322794"><i class="linkedin outline icon large inverted bordered"></i></a>
+  <a class="item" target="_blank" href="https://lightrains.com/feed.xml"><i class="rss outline icon large inverted bordered"></i></a>
+</div>
+           </div>
+       </div>
+   </div>
+   <div class="ui hidden divider"></div>
+   <div class="ui container">
+       <div class="footers">
+  +91 471 4000056 <i class="ellipsis vertical icon"></i> 
+ <a href="mailto:hexlxlo@xligxhtrxaxixnxs.com" title="Email to Lightrains Technolabs" class="obsa">hexlxlo@xligxhtrxaxixnxs.com</a>
+ <i class="ellipsis vertical icon"></i> &copy; 2010-2021 All rights reserved
+ <p class="slogan">Blockchain Consulting. Technology Supercharged</p>
+</div>
+   </div>
+</div>
+       </div>
+     </div>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-9728278-16', 'lightrains.com');
+  ga('send', 'pageview');
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Lightrains Technolabs",
+        "legalName": "Lightrains Technolabs Private Limited",
+        "url": "https://lightrains.com",
+        "telephone": "+914714000056",
+        "email": "hello(at)lightrains.com",
+        "foundingDate": "2012-12-28",
+        "slogan": "Technology Supercharged",
+        "description": "A global technology solution provider enabling enterprises to apply Blockchain and AI in their businesses.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trivandrum",
+            "addressRegion": "Kerala",
+            "postalCode": "695581",
+            "streetAddress": "Module 2, Gayathri, Technopark Campus, Trivandrum, 695581"
+        },
+        "founder": {
+            "@context": "http://schema.org/",
+            "@type": "Person",
+            "name": "Nikhil Mohan",
+            "jobTitle": "Director of Technology",
+            "url": "https://nikhilmohan.in/",
+            "sameAs": ["https://twitter.com/niksmac_", "https://github.com/niksmac"]
+        },
+        "logo": "https://lightrains.com/assets/img/lightrains-logo.png",
+        "sameAs": ["https://twitter.com/lightrainstech","https://medium.com/lightrains","https://www.facebook.com/lightrainstechnolabs","http://www.linkedin.com/company/1322794","https://github.com/lightrainstech"]
+    }
+</script>
+<script src="/assets/js/bundle-front.min.js"></script>
+   </div>
+  </body>
+
+<script>if ("serviceWorker" in navigator) {navigator.serviceWorker.register("/sw.js").then(function(registration) {console.log("ServiceWorker registration successful with scope: ",    registration.scope);}).catch(function(err) {console.log("ServiceWorker registration failed: ", err);});}</script>

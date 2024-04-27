@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightrains Technolabs</title>
+    <description>Blockchain Consulting.</description>
+    <link>https://lightrains.com/</link>
+    <atom:link href="https://lightrains.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 May 2021 00:29:48 +0530</pubDate>
+    <lastBuildDate>Wed, 19 May 2021 00:29:48 +0530</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Various NFT Standards</title>
+        <description>Token standards create a uniform set of rules (or in this case code), which allow for: Easy integration across a number of platforms. Interoperability. Increased utility value and network effect, as the token can be used in more places/for more applications. ERC-721 Built on top of the Ethereum blockchain, the first real iteration of a non-fungible standard came about with ERC721. It was popularised in late 2017 with the rapid adoption of CryptoKitties, a game which allowed for the purchase, and subsequent ‘breeding’ of digital cats. These cats were bought and sold as a virtual token, and some have fetched prices over $200, 000! At its peak, CryptoKitties was responsible for more than 10% of total transactions on the Ethereum network. ERC-1155 Created by the team at Enjin, this standard allows for both fungible and non-fungible items in the same smart contract. In doing so, ERC-1155 reduces the amount of data required, creating smoother deployments and requiring a lot less network power. The best example of ERC-1155 is seen in blockchain gaming. Rather than requiring a new contract for every in-game item, you can now create multiple items using the same contract. Moreover, say you collect weapons and coins (crypto) in a game, you can now achieve both with ERC-1155, drastically reducing the resources required to efficiently run blockchain based games, and allowing them to be stored in a simple wallet interface. ERC-994 Created a system where DNFT’s can identify an area or zone (let’s say the suburb you live in), and can then delegate NFT’s to represent individual houses or parcels of land. In this way, ownership of property can be tokenised whilst also providing a way to update land registries, and legally verify their sale. It was designed with the following essentials: A non-conflicting geospace Legal validity and...</description>
+        <pubDate>Mon, 10 May 2021 08:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/nft-standards-erc-721-erc-1155</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/nft-standards-erc-721-erc-1155</guid>
+        
+        <category>NFT</category>
+        
+        <category>Non Fungible Tokens</category>
+        
+        <category>DeFi</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DeFi Yield Farming</title>
+        <description>DeFi projects offer users incentives to deposit tokens and provide liquidity to their protocols is popularly known as Yield Farming. Yield Farming is also called as liquidity mining and it is a growing method of receiving rewards from cryptocurrency capital investments. Liquidity mining funds are retained in liquidity pools by liquidity providers, they can also earn rewards for investment in that exchange interface.
+
+Annual Percentage Rate (APR)
+It mainly refers to the yearly rate of returns are imposed on borrowers but the payment was paid to capital investors.
+
+Annual Percentage Yield:(APY)
+It is an annual rate of return that would be changed on capital borrowers and later paid to the capital providers. APY is not a well-defined APR but only that former allows compounding of interest to bring in more returns to the investor
+
+
+  DeFi Dapp Development
+  DeFi Token Development
+  DeFi Smart Contract Development
+  DeFi Lending &amp;amp; Borrowing Platform Development
+
+</description>
+        <pubDate>Wed, 28 Apr 2021 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/yield-farming-defi</link>
+        <guid isPermaLink="true">https://lightrains.com/work/yield-farming-defi</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Smart Contract</category>
+        
+        <category>DeFi</category>
+        
+      </item>
+    
+      <item>
+        <title>NFT Marketplace</title>
+        <description>NFTs are non-fungible tokens. They are unique items that you can’t replace with something else. For example, a one-of-a-kind trading card is an NFT – you can’t just replace it with any other card. If you trade your card for some other card, you have something different. These differ from fungible items, which are often the same as each other.
+
+Network (Blockchain)
+
+Binance Smart Chain
+
+Supported Wallets
+
+
+  Metamask
+  WalletConnect
+  TrustWallet
+  Binance Chain Wallet
+
+
+Features
+
+
+  NFT Minting
+  NFT Administration
+  Configureable commission structure
+  Search and Filters
+  Voting
+  Auction
+
+
+Red more
+
+
+  What is an NFT aka Non Fungible Tokens
+
+</description>
+        <pubDate>Thu, 22 Apr 2021 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/nft-marketplace-binance-bsc</link>
+        <guid isPermaLink="true">https://lightrains.com/work/nft-marketplace-binance-bsc</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Smart Contract</category>
+        
+        <category>DeFi</category>
+        
+      </item>
+    
+      <item>
+        <title>What is an NFT aka Non Fungible Tokens</title>
+        <description>Most simply, an NFT is an entry on a blockchain, the same decentralized digital ledger technology that underlies cryptocurrencies like bitcoin. But unlike most bitcoin–which is fungible, meaning that one coin is essentially indistinguishable from another and equivalent in value–tokens on these blockchains are non-fungible. A non-fungible token (NFT) is a cryptographic token that represents something unique, and has an individual characteristic that sets it apart. Owning an NFT is like owning a one-of-a-kind work of art or a collectible antique. NFTs are unique tokens or digital assets that generate value because of their uniqueness. What’s special about the tokens? For a buyer, they provide a secure certificate of ownership over a digital object, protecting the good’s value. The internet makes it easy to duplicate and forge something, and without an indisputable ownership record such as an NFT, the good is essentially worthless. For a seller, NFTs make it not only possible to sell something today, but also to keep earning tomorrow. Artists in particular have historically struggled to reap rewards if their work appreciates in value. How to make an NFT? Anyone can create an NFT. All that’s needed is a digital wallet, a small purchase of ethereum and a connection to an NFT marketplace where you’ll be able to upload and turn the content into an NFT or crypto art. NFT examples The NFT world is relatively new. In theory, the scope for NFTs is anything that is unique that needs provable ownership. Here are some examples of NFTs that exist today, to help you get the idea: A unique digital artwork. An in-game item. A digital collectible. A domain name. NFTs and DeFi The NFT world and the decentralized finance (DeFi) world are starting to work together in a number of interesting ways. NFT-backed loans There are...</description>
+        <pubDate>Thu, 25 Mar 2021 08:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/what-is-nft-non-fungible-tokens</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/what-is-nft-non-fungible-tokens</guid>
+        
+        <category>NFT</category>
+        
+        <category>Non Fungible Tokens</category>
+        
+        <category>DeFi</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MongoDB Solutions to data growth</title>
+        <description>MongoDB provides the sharding feature for you to store massive data. However, the storage costs increase with the growth of data volume. Typically, the value of log data decreases over time. Data generated one year ago or even three months ago, which is valueless to the analysis, needs to be cleared to reduce storage costs. MongoDB allows you to use the following solutions to meet such a requirement. Data sharding When the number of service nodes that generate logs increases, the requirements for the write and storage capabilities of a log storage service also increase. In this case, you can use the sharding feature provided by MongoDB to distribute the log data across multiple shards. Use a field that indicates the timestamp as the shard key Use the hashed sharding method Use the ranged sharding method Solutions to data growth Use TTL indexes: Time to live (TTL) indexes are special single-field indexes that MongoDB can use to automatically remove documents from a collection after a certain amount of time. In the preceding example, the time field indicates the time when the request was sent. You can run the following command to create a TTL index on the time field and specify that MongoDB removes the document after 30 hours: db.events.createIndex( { time: 1 }, { expireAfterSeconds: 108000 } ).   Use capped collections: If you do not have strict limits on the storage period, whereas you want to limit the storage space, you can use capped collections to store log data. Capped collections work in the following way: After you specify a maximum storage space or a maximum number of stored documents for a capped collection, once one of the limits is reached, MongoDB automatically removes the oldest documents in the collection. For example, you can run the following command...</description>
+        <pubDate>Thu, 07 Jan 2021 08:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/mongodb-solutions-to-data-growth</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/mongodb-solutions-to-data-growth</guid>
+        
+        <category>MongoDB</category>
+        
+        <category>Handbook</category>
+        
+        <category>Principles</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why we moved to Formsure from Google Forms</title>
+        <description>Though similar to a traditional form builder in appearance and flow, Formsure is designed to provide the best creation and usage experience that someone can have.
+
+We, at Lightrains were using quite a lot of Google Forms lately; from collecting client details to fill up initial project descriptions from our various clients.
+
+
+  The data collection through Formsure is thorough, the approach is refined, and the summary reports are complete in all respects. Formsure’s surveys and polls have helped us to gain peace of mind in knowing that our brand is favoured and represented appropriately to our employees as well as the brand ambassadors.
+
+
+Powerful Features For Better User Engagement
+
+
+  Easy Drag &amp;amp; Drop Interface
+  Automatic Saving
+  Multiple Choice Question
+  File Upload
+  Collect Payments
+
+
+Different form templates
+
+
+  Free Trial Request Form Template
+  Product Enquiry Form Template
+  Delivery Feedback Form Template
+  And more…
+
+</description>
+        <pubDate>Mon, 21 Dec 2020 08:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/formsure-alternative-google-forms</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/formsure-alternative-google-forms</guid>
+        
+        <category>Formsure</category>
+        
+        <category>Story</category>
+        
+        <category>Product Review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Formsure</title>
+        <description>Our form builder for surveys, polls and quizzes helps you get feedback from your customers. Formsure form builder is easy and customisable for all industries and use cases. Redefine your online sales strategy; automate and personalize sales advice for each customer using interactive content from Formsure. You can use Formsure to collect all the information you want by creating free surveys, polls and quizzes.
+
+Powerful Features For Better User Engagement
+
+
+  Easy Drag &amp;amp; Drop Interface
+  Automatic Saving
+  Multiple Choice Question
+  File Upload
+  Collect Payments
+
+
+Different form templates
+
+
+  Free Trial Request Form Template
+  Product Enquiry Form Template
+  Delivery Feedback Form Template
+  And more…
+
+</description>
+        <pubDate>Mon, 21 Dec 2020 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/formsure-form-builder</link>
+        <guid isPermaLink="true">https://lightrains.com/work/formsure-form-builder</guid>
+        
+        
+        <category>Other</category>
+        
+      </item>
+    
+      <item>
+        <title>Kerala PSC Questions app</title>
+        <description>The next-gen app to tackle Kerala PSC examinations. All set to take it users to higher levels of achievements. For those with enduring thirst for knowledge look no further. Launched to serve career hunters focusing on exams conducted by Kerala Public Service Commission [KPSC] and various other competitive exams. With a bundle of questions in General English, Numerical ability, Computer knowledge and many more. Questions in Malayalam as well for Lower division clerk(LDC) candidates.
+
+Each category consists of various subcategories consisting of 200 or more questions each. From which a random of 20 questions is provided for you on each attempt with a timer of 15 minutes. Each question is provide with four options to choose from. More the correct answers, higher you score. Lesser the time you take to complete each attempt, more the expert you become. At the end of each attempt you will provided with the correct answers for each questions. So that you can memorise it and never miss it again.
+
+Enjoy Kerala PSC Questions by Quizzed, challenging you on your knowledge.
+
+Quizzed is collection of quantitative aptitude questions and word problems frequently asked in competitive examinations and placement papers presented to you in the form of apps.
+
+This app will be ideal for specialised exams in Kerala PSC like;
+
+
+  LD Clerk
+  Vocational Higher Secondary Teacher
+  Secretariat Assistant Exam
+  Assistant Grade Exam
+  LD Typist
+  Sub Inspector
+  Sales Tax
+  Deputy Collector
+  Stenographer
+
+
+We will be glad to take your feedback on Kerala PSC Questions App , letting us improve the Kerala PSC Questions app (We strive to bring the best).
+</description>
+        <pubDate>Sat, 07 Nov 2020 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/kerala-psc-app-quizzed</link>
+        <guid isPermaLink="true">https://lightrains.com/work/kerala-psc-app-quizzed</guid>
+        
+        
+        <category>Android</category>
+        
+      </item>
+    
+      <item>
+        <title>What is WalletConnect protocol</title>
+        <description>WalletConnect allows the user to scan a QR code from the wallet app to unlock and use their wallet seamlessly in the web UI. What is WalletConnect? WalletConnect is an open protocol made to facilitate a secure connection between mobile cryptocurrency wallets and desktop applications, such as dapps. Transactions are made through an encrypted connection by scanning a QR code, and are confirmed on the mobile device. As the private key never leaves the user’s device, their funds are never at risk and the possibility of a hijack is very low. WalletConnect enables Dapp developers to integrate with multiple wallets through a single implementation. enable users to use their mobile wallets with Dapps without having to install a browser extension enable users to use the wallet of their choice without worrying about which Dapps have integrated with which wallets simplify wallet integration for Dapp developers instead of requiring them to integrate each wallet individually provide flexibility to Dapp developers about which Wallet Connect bridge servers they want to use to communicate with mobile wallets provide control to the mobile wallet developers on how push notifications are sent to their users How does it work? WalletConnect connects web applications to supported mobile wallets. WalletConnect session is started by a scanning a QR code (desktop) or by clicking an application deep link (mobile). Why Should I Use WalletConnect? A few of the most popular options for interacting with a dapp include using a desktop browser-only extension like Metamask, or a mobile wallet/Ethereum browser like Cipher or Status. The problem with these solutions is that funds are generally ‘stuck’ on one platform, and would make it difficult to switch between mobile and desktop, unless the recovery phrase would be exported which could result in serious security implications. Using WalletConnect with Binance API Protocol...</description>
+        <pubDate>Wed, 07 Oct 2020 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/walletconnect-protocol-dapps</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/walletconnect-protocol-dapps</guid>
+        
+        <category>WalletConnect</category>
+        
+        <category>Wallet</category>
+        
+        <category>Blockchain</category>
+        
+        <category>Protocol</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hedera Hashgraph Development Services</title>
+        <description>
+  Hedera is a public distributed ledger for building and deploying decentralized applications and microservices. You can use Hedera’s network services–Cryptocurrency, Consensus, Smart Contracts, and File Service–atop the hashgraph consensus algorithm, to build applications with high throughput, fair ordering, and low-latency consensus finality in seconds without relying on centralized infrastructure.
+
+
+What is hashgraph?
+
+Hashgraph is a distributed consensus algorithm and data structure that is fast, fair, and secure. This indirectly creates a trusted community, even when members do not necessarily trust each other. Hedera is the only authorized public network to use hashgraph. You can learn more about the consensus algorithm
+
+Hedera Hashgraph Development Services
+
+Using Hedera’s network services such as cryptocurrency, file service and smart contracts, we build decentralized apps on the Hedera Hashgraph platform that delivers high throughput and decentralized trust. Our Hedera Hashgraph developers can also integrate your existing app or permission blockchain network with a Hedera network.
+
+1. Custom Hedera Hashgraph App Development
+
+We develop and deploy enterprise-grade dApps on the Hedera Hashgraph network with Hedera Hashgraph APIs, Consensus Service, File Service and Smart Contracts.
+
+2. Hedera Hashgraph Platform Integration
+
+We can integrate your existing application or blockchain network with the Hedera Hashgraph platform by migrating the business layer into smart contracts and committing transactions to the Hedera Platform instead of a centralized database.
+
+3. Smart Contracts Development
+
+We deploy and run Solidity Smart Contracts on Hedera Public and Private Network for enterprise-grade, B2C and B2B applications. We can also deploy smart contracts to create a token that represents an asset or security.
+
+Sources:
+
+
+  Hashgraph wiki
+  Writing and deploying smart contract
+
+</description>
+        <pubDate>Fri, 02 Oct 2020 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/hedera-hashgraph-development-services</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/hedera-hashgraph-development-services</guid>
+        
+        <category>Hedera Hashgraph</category>
+        
+        <category>Hashgraph</category>
+        
+        <category>Blockchain</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DNS over HTTPS</title>
+        <description>DNS over HTTPS (DoH) is a protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol. Goal of the method is to increase user privacy and security by preventing eavesdropping and manipulation of DNS data by man-in-the-middle attacks by using the HTTPS protocol to encrypt the data between the DoH client and the DoH-based DNS resolver. Encryption by itself does not protect privacy, encryption is simply a method to obfuscate the data. What is DNS: the Domain Name System The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources. How can DNS be exploited? A resolver will tell each DNS server what domain you are looking for. This request sometimes includes your full IP address. Or if not your full IP address, increasingly often the request includes most of your IP address, which can easily be combined with other information to figure out your identity. How to fix this with Trusted Recursive Resolver (TRR) and DNS over HTTPS (DoH)? There are three threats here: You could end up using an untrustworthy resolver that tracks your requests, or tampers with responses from DNS servers. On-path routers can track or tamper in the same way. DNS servers can track your DNS requests. What are the Pros and Cons of DoH? Pros It prevents man-in-the-middle attacks – since DNS queries are traditionally sent in plain-text, DoH can reduce the risk of man in the middle attacks where someone can see what DNS queries you are running between you and your - recursive server because it encrypts your queries. The encryption with DoH can protect sensitive information that...</description>
+        <pubDate>Fri, 10 Apr 2020 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/dns-over-https-doh</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/dns-over-https-doh</guid>
+        
+        <category>doh</category>
+        
+        <category>privacy</category>
+        
+        <category>security</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Digital Securities Platform</title>
+        <description>A global digital securities platform facilitating the capital raise for issuers and providing access to institutional-grade opportunities for investors
+
+Digital Securities Issuance
+
+
+  Equity
+  Fixed Income
+  Real Estate
+  Investment Funds
+  Revenue Streams
+
+
+Life-Cycle Management
+
+
+  Payment distributions
+  Governance
+  Cap table management
+  Economic rights
+
+
+Liquidity &amp;amp; Custody
+
+
+  Institutional-grade solutions
+  Dedicated partnerships
+  Proprietary security technology
+  (private key safety)
+
+</description>
+        <pubDate>Thu, 05 Mar 2020 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/sto-digital-securities-platform</link>
+        <guid isPermaLink="true">https://lightrains.com/work/sto-digital-securities-platform</guid>
+        
+        
+        <category>Blockchain</category>
+        
+      </item>
+    
+      <item>
+        <title>Akolade</title>
+        <description>Akolade is the industry’s first platform with a focus on online content creators, that allows them to earn recurring revenues in crypto. Akolade allows content creator to earn direct revenues in cryptocurrencies from their supporters across borders, seamlessly.
+
+Mission
+
+To help content creators produce independent content, enabling their audiences to support in cryptocurrencies, anywhere, anytime.
+
+Product features
+
+The Akolade platform will provide the essential tools for the content creators to manage their subscriber-base and grow their earnings based on detailed insights from the platform.
+
+
+  Subscription Management tools
+  Analytics
+  Payments in Stellar Lumens and other cryptocurrencies with third-party service integration
+  Content notifications and publishing options
+  Social interactions between supporters and creators
+
+</description>
+        <pubDate>Thu, 05 Dec 2019 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/crypto-membership-platform</link>
+        <guid isPermaLink="true">https://lightrains.com/work/crypto-membership-platform</guid>
+        
+        
+        <category>Blockchain</category>
+        
+      </item>
+    
+      <item>
+        <title>Automated API testing with nodejs</title>
+        <description>We are going automate the api testing as much as possible, and potentially make it separate from the app in development. Tools Mocha: Mocha is a javascript testing framework that makes asynchronous testing easy. Chai: Unlike Jasmine, an additional assertion library must be used to supplement Mocha SuperTest: SuperTest is an extension of SuperAgent, a lightweight HTTP AJAX request library App starter Following is the basic packages needed for run this project, you can add individual modules too { &quot;name&quot;: &quot;node-api-testing&quot;, &quot;version&quot;: &quot;1.0.0&quot;, &quot;description&quot;: &quot;API Testing&quot;, &quot;devDependencies&quot;: { &quot;chai&quot;: &quot;^4.2.0&quot;, &quot;faker&quot;: &quot;^4.1.0&quot;, &quot;mocha&quot;: &quot;^6.2.1&quot;, &quot;supertest&quot;: &quot;^4.0.2&quot; }, &quot;scripts&quot;: { &quot;prestart&quot;: &quot;npm install;&quot;, &quot;start&quot;: &quot;mocha --timeout 25000 --colors&quot; } } To install modules individually use yarn add chai mocha supertest --dev. Make sure that you have mocha installed globally. Run yarn global add mocha Install all the dependencies using yarn or yarn install Create tests Create your test folder in the project root run mkdir test The directory must be called test for Mocha to find test files to run. for the test we are following a naming pattern like [controller]_test.js you can create your own. let should = require(&apos;chai&apos;).should(), expect = require(&apos;chai&apos;).expect, supertest = require(&apos;supertest&apos;), api = supertest(&apos;http://127.0.0.0:3000&apos;), faker = require(&apos;faker&apos;) let tokenSymbol = faker.lorem.word() let result describe(&apos;Token&apos;, function() { before(function(done) { api.post(&apos;/api/tokens&apos;) .set(&apos;Accept&apos;, &apos;application/x-www-form-urlencoded&apos;) .send({ name: faker.name.findName(), symbol: tokenSymbol, owner: faker.lorem.word(), userId: faker.random.uuid(), txHash: faker.lorem.word() }) .expect(&apos;Content-Type&apos;, /json/) .expect(200) .end(function(err, res) { done() }) }) it(&apos;should return a 200 response&apos;, function(done) { api.get(`/api/tokens/${tokenSymbol}`) .set(&apos;Accept&apos;, &apos;application/json&apos;) .expect(200, done) }) it(&apos;should return a 400 response&apos;, function(done) { api.get(&apos;/api/tokens/hello&apos;) .set(&apos;Accept&apos;, &apos;application/json&apos;) .expect(400, done) }) }) The above code is pretty self explanatory, however we will go through it line by line; Running tests Running test is easy as running yarn run test or yarn test. Make sure the api project is running...</description>
+        <pubDate>Mon, 30 Sep 2019 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/automated-api-testing-nodejs</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/automated-api-testing-nodejs</guid>
+        
+        <category>tdd</category>
+        
+        <category>api</category>
+        
+        <category>test</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Codewall 2</title>
+        <description>
+</description>
+        <pubDate>Tue, 16 Jul 2019 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/codewall-2</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/codewall-2</guid>
+        
+        <category>Codewall</category>
+        
+        <category>Downloads</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Widevine - DRM for the new web</title>
+        <description>Widevine DRM
+
+Widevine’s DRM solution provides the capability to license, securely distribute and protect playback of content on any consumer device. Content owners, multiple service operators and digital media providers can utilize Widevine’s solutions to ensure revenue generating services keep flowing to whatever device consumers desire.
+
+
+  Digital rights management (DRM) tools or technological protection measures (TPM) are a set of access control technologies for restricting the use of proprietary hardware and copyrighted works. DRM technologies try to control the use, modification, and distribution of copyrighted works (such as software and multimedia content), as well as systems within devices that enforce these policies. wiki
+
+
+What makes Widevine so demanding?
+
+Widevine DRM is a combination of leading technologies like.
+
+
+  MPEG-DASH: This is an open-source adaptive bitrate for streaming video across the internet. DASH leverages standard protocols like HTTP using existing web infrastructure to deliver video to every device.
+  Common Encryption (CENC): CENC supports key-mapping across multiple DRM schemes, and is not limited to a single DRM scheme. A single file can be decrypted using multiple DRM schemes, so the same file can be used across every device.
+  Encrypted Media Extensions (EME): EME manages the exchange of DRM license keys between servers and devices. Using EME a single solution can be used to encrypt content for every device.
+
+
+How does it actually work?
+
+
+
+(image from encoding.com)
+
+
+  Sources:
+
+
+
+  https://en.wikipedia.org/wiki/Widevine
+  https://en.wikipedia.org/wiki/Digital_rights_management
+
+</description>
+        <pubDate>Wed, 03 Jul 2019 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/google-widewine-drm-introduction</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/google-widewine-drm-introduction</guid>
+        
+        <category>Widevine</category>
+        
+        <category>DRM</category>
+        
+        <category>DRM Platform</category>
+        
+        <category>Google Widewine</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Changes to watch in Ethereum istanbul</title>
+        <description>Istanbul October 2019 Planned Ethereum Network Upgrade
+
+The deadline for EIP proposals for Istanbul was May 17th. All of these EIPs intend to prepare for inclusion in Istanbul, but Core Dev acceptance, implementation, testing, audits, and other work needs to be done to prepare them.
+
+Proposed EIPs
+
+EIP-615: Subroutines and Static Jumps for the EVM EIP-1057: ProgPoW, a Programmatic Proof-of-Work (contingent on positive audit results) - @IfDefElse EIP-1108: Reduce alt_bn128 precompile gas costs - @zac-williamson EIP-1283: Net gas metering for SSTORE without dirty maps @sorpass EIP-1344: Add ChainID opcode - @fubuloubu EIP-1352: Specify restricted address range for precompiles/system contracts EIP 1380: Reduced gas cost for call to self - @axic @jacqueswww EIP 1559: Fee market change for ETH 1.0 chain EIP-1965: Method to check if a chainID is valid at a specific block Number EIP-1702: Generalized account versioning scheme - @sorpaas EIP-1706: Disable SSTORE with gasleft lower than call stipend EIP 1803: Rename opcodes for clarity - @axic EIP 1829: Precompile for Elliptic Curve Linear Combinations @remco EIP 1884: Reprice Opcodes + optional new opcode, @holiman - Discuss EIP 1930: CALLs with strict gas semantic. Revert if not enough gas available EIP 2028: Calldata gas cost reduction
+
+Notable discussions
+
+
+  I proposed EIP-1344 for Istanbul because I think it’s the most straightforward and flexible proposal for managing chain ID-based domain separation in the application layer. I don’t believe EIP-1965 has to be Accepted to be proposed for Istanbul, so that should not be an issue in proposing it.
+fubuloubu
+
+
+Source:
+
+
+  https://en.ethereum.wiki/roadmap/istanbul
+  https://ethereum-magicians.org/t/hardfork-meta-eip-1679-istanbul-discussion/3207
+
+</description>
+        <pubDate>Sun, 26 May 2019 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/what-is-ethereum-istanbul-upgrade</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/what-is-ethereum-istanbul-upgrade</guid>
+        
+        <category>Ethereum Istanbul</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Fork</category>
+        
+        <category>HardFork</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to create and issue token on Binance Chain</title>
+        <description>Binance Chain and Binance DEX are community-driven and created to assist projects that require both fast transactions and improved liquidity in a decentralized manner. While anyone can issue their tokens on Binance Chain, the listing of trading pairs on Binance DEX involves 4 main steps: Proposal, Deposit, Vote, and List. However for the sake of easy understanding lets break this even further into; Create a wallet Get test BNB Issue the token Create a proposal to list your token List your token 1. Create a wallet You can create an account from the testnet website here BinanceTestnet. Enter your strong password and you will need to download the keystore file. Please backup the mnemonic phrase and save both file and phrase carefully. Now you have your keystore file, password and backup mnemonic phrase, you can proceed to next steps. 1.1. See if you can unlock. Go to binance.org/unlock to unlock your wallet and you can see your address there. 2. Get test BNB You need test BNBs to create, list and issue your tokens the fee estimations are the following; Issuing 400 BNB Listing Proposal 2000 BNB Listing 800 BNB i.e. 2400 BNB are required for the issuing/listing. Steps to get test BNB Register in Binance (Live exchange) Register Get BNB from test faucet Each address can only get 200 BNB from the faucet. To get the required test BNB, you may ask for more from your friends or register more addresses in the account, and transfer all test BNB into one wallet. 3. Create/Issue token To issue a token you need to have basic unix command line experience. You need to use command line utility called bnbcli which you can download from binance-chain/node-binary. $ git clone git@github.com:binance-chain/node-binary.git $ cd ./cli/testnet/mac or cd ./cli/testnet/linux $ ./bnbcli In some cases you...</description>
+        <pubDate>Mon, 29 Apr 2019 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/how-create-binance-token</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/how-create-binance-token</guid>
+        
+        <category>Binance Token</category>
+        
+        <category>Token</category>
+        
+        <category>Binance Chain</category>
+        
+        <category>Tutorial</category>
+        
+        <category>Binance DEX</category>
+        
+        <category>DEX</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Untrack</title>
+        <description>Untrack is a desktop app to block all known tracking websites from spying on your internet activity. Untrack stops all tracking websites from tracking your online activity. Untrack stops all tracking websites from tracking your online activity. Tracking domain list is curated and maintained as an open source project. Untrack efficiently blocks ads, tracking and malware. It saves your data, makes your device faster and protects your privacy.
+
+How it works.
+
+It simply replaces your hosts file with a crowdsourced list of all known tracking websites. List of tracking domains are maintained by StevenBlack/hosts
+
+What it blocks
+
+
+  38k+ Tracking websites
+  2k+ Gambling websites
+  12k+ Porn websites
+  2k+ Social media websites
+
+
+Yes, that is a total of 55k+ tracking domains.
+
+Why we did this?
+
+We know that this is a 1 minute job for a programmer to have this running in your computer. But our idea is to allow each and every common internet user to be able to escape from these trackers.
+</description>
+        <pubDate>Fri, 05 Apr 2019 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/untrack-free-open-source-ad-blocker</link>
+        <guid isPermaLink="true">https://lightrains.com/work/untrack-free-open-source-ad-blocker</guid>
+        
+        
+        <category>Open Source</category>
+        
+      </item>
+    
+      <item>
+        <title>React performance Optimization - Part 1/2</title>
+        <description>Overview
+
+React is usually quite fast out of the box. We can make it even faster using simple steps and even faster if we dig further and find the bottleneck.
+
+We are dividing this series into 2 based on the difficulty of the solution. Part 1 we will be discussing the very easy optimization steps. Part 2 will be little more advanced.
+
+Great, lets start with the obvious ones;
+
+1. Use the Production Build
+
+Use production build when you are done with development and shipping your app to your client. NODE_ENV is the variable used to identify the environment where the app is getting build. You can set it using NODE_ENV=production node YOUR-SCRIPT.js. If you are using Create React App you can use the predefined npm run build to build the app in production environment.
+
+2. Avoid unwanted renders
+
+React re-renders components on every state change. Even though the react virtual dom is much faster than native dom, it will slow down if we make it do additional work than what is necessary to make the change. When a component’s props or state change, React decides whether an actual DOM update is necessary by comparing the newly returned element with the previously rendered one. When they are not equal, React will update the DOM.
+
+How to avoid unwanted renders
+
+
+  Use PureComponent
+  Use shouldComponentUpdate
+
+
+Checkout React.memo. React.memo is a higher order component. It’s similar to React.PureComponent but for function components instead of classes.
+
+These are some very basic but vey effective steps to increase the performance of your react app.
+
+Part 2: React performance Optimization the Hard way
+</description>
+        <pubDate>Fri, 04 Jan 2019 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/optimizing-performace-react-part1</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/optimizing-performace-react-part1</guid>
+        
+        <category>React</category>
+        
+        <category>ReactJS</category>
+        
+        <category>JavaScript</category>
+        
+        <category>Performance</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Stellar Federation Server - Part 1/2</title>
+        <description>The Stellar federation protocol maps Stellar addresses to a unique name spaced string. It’s a way for Stellar client software to resolve email-like addresses such as name*your_domain.com into account IDs like: GCFFPIFOYY7Z...TK6T32V37KEJU. Stellar addresses provide an easy way for users to send and receive payments by using a syntax that interoperates across different domains and providers. When sending a payment, you contact a federation server first to determine what Stellar account ID to pay. Luckily, the bridge server does this for you.
+
+To explain it simply, a Stellar Federation Server is a database with the following table structure which maps a Stellar address to a string(friendly_id).
+
+| id | first_name | last_name | friendly_id         |
+|----|------------|-----------|---------------------|
+| 1  | Tunde      | Adebayo   | tunde_adebayo       |
+| 2  | Lightrains | Tech      | lightrains          |
+
+
+Where Lightrains Stellar address would be lightrains*your_domain.com.
+
+Stellar Federation Server architecture
+
+Source: stellar.org
+
+  Here, your front end app/website will be talking to a intermediate server called bridge server which will be talking directly to a federation server. Bridge server is responsible for querying the federation server and get corresponding address and send transaction or operation to a stellar core via stellar Horizon server.
+
+
+Current federation workflow
+
+Currently, in order to resolve a federation address, the client needs to do the following:
+
+
+  fetch the stellar.toml file from https://&amp;lt;domain&amp;gt;/.well-known/stellar.toml and read the FEDERATION_SERVER entry from it
+  fetch the response from the federation server using secure HTTP GET and required parameters
+  proceed with the payment
+
+
+TODO: How to set up Stellar Federation Server - Part 2/2
+</description>
+        <pubDate>Sun, 12 Aug 2018 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/stellar-federation-server-part1</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/stellar-federation-server-part1</guid>
+        
+        <category>Stellar</category>
+        
+        <category>Stellar Federation Server</category>
+        
+        <category>Principles</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Stellar Consensus Protocol</title>
+        <description>Stellar Consensus Protocol (SCP) is an open Byzantine agreement protocol resistant to Sybil attacks, proposed by Stellar foundation. It allows Internet infrastructure stakeholders to reach agreement on a series of values without unanimous agreement on what
+constitutes the set of important stakeholders. A big differentiator from other Byzantine agreement protocols is that, in SCP, nodes determine the composition of quorums in a decentralized way: each node selects sets of nodes it considers large or important enough to
+speak for the whole network, and a quorum must contain such a set for each of its members.
+
+Distributed consensus: In a distributed system, all nodes must periodically update the state that they’re replicating — for example, a transaction ledger. We identify each update by a unique slot; a consensus protocol ensures that all nodes agree upon slot content.
+
+Tolerating Byzantine failure: We want to ensure consensus even when individual nodes act arbitrarily, behaviour known as Byzantine failure. To tolerate Byzantine failure, SCP is designed not to require unanimous consent from the complete set of nodes for the system to reach agreement, and to tolerate nodes that lie or send incorrect messages.
+
+Federation: In a distributed system, a quorum is a set of nodes sufficient to reach agreement. Federated Byzantine agreement introduces the concept of a quorum slice, the subset of a quorum that can convince one particular node of agreement.
+
+
+  FBA brings open membership and decentralized control to Byzantine agreement. The key difference between a Byzantine agreement system and a federated Byzantine agreement system (FBAS) is that in FBA each node chooses its own quorum slices. The system-wide quorums result from these decisions by individual nodes.
+
+
+Source:
+
+
+  white paper
+  protocol
+
+</description>
+        <pubDate>Wed, 08 Aug 2018 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/stellar-consensus-protocol-scp</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/stellar-consensus-protocol-scp</guid>
+        
+        <category>Federated Byzantine agreement</category>
+        
+        <category>Stellar</category>
+        
+        <category>Consensus Protocol</category>
+        
+        <category>SCP</category>
+        
+        <category>Principles</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to setup PIVX masternode on Ubuntu</title>
+        <description>A masternode is a server on a decentralized network. It can be uses to complete unique functions which ordinary nodes can’t. It can be used for features like direct send/instant transactions or private transactions. Because of their increased capabilities, masternodes typically require a sizable investment in order to run. But this is where incentivization comes into play, as masternode operators are rewarded by earning portions of block rewards in whatever given cryptocurrency they’re facilitating. Masternodes are nodes running the same wallet software on the same blockchain to provide extra services to the network. These services include: Anonymization increased privacy of transactions Instant transactions A decentralized governance A decentralized budgeting system Immutable proposal and voting systems. This particular guide will walk you through the process of setting up a PIVX masternode in Ubuntu, either in a cloud server or your home computer. Basic requirements to run pivx masternode 10,000 PIV How do I obtain PIV? A main computer (Your everyday computer) – This will run the control wallet, hold your collateral 10,000 PIV and can be turned on and off without affecting the masternode. Masternode Server (VPS – The computer that will be on 24/7) A unique IP address for your VPS / Remote wallet Set up Control wallet 1. Generate Masternode private key masternode genkey will create a private key for you 2. Generate address getaccountaddress NAME_OF_MASTERNODE will create an address for you. 3. Fund the control wallet Send 10,000 PIV to the address you generated in step 2 Be absolutely 100% sure that this is copied correctly. We cannot help you, if you send 10,000 PIV to an incorrect address. 4. Confirm sent masternode outputs will give you proof of transaction of sending 10,000 PIV 5. Assign the wallet Go to PIVX data directory %Appdata%/PIVX on Windows and ~...</description>
+        <pubDate>Thu, 21 Jun 2018 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/setup-pivx-masternode-ubuntu</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/setup-pivx-masternode-ubuntu</guid>
+        
+        <category>Masternode</category>
+        
+        <category>PIVX</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lightning Network - What and Why</title>
+        <description>The problem with bitcoin blockchain network is scalability. The block size in a blockchain is limited to 1MB, every block is created in every 10 Min and only 7 transaction per second. Lightning network introduced to resolve this problem, there by allowing more transaction at a time. Lightning network(LN) can be defined as decentralised network or payment channel for instant payment which is based on block chain’s smart contract functionality. More specifically Lightning Network is an off-chain protocol for bitcoin micro payments. LN is a bidirectional payment channel which allows transaction between two parties without needing broadcast each and every transaction. How Lightning Network works Bidirectional payment channel A multi-signature wallet/ address is opened by both parties and a small amount is deposited by them from their personal address. This transaction is called funding transaction/opening transaction since it for fund and open a bidirectional channel. One on­-chain transaction is made to deposit the funds. Before this transaction is made, a refund transaction is created, which returns the original deposit to both parties. After the transaction is broadcast on­-chain, the payment channel is open and ready for transfers. Initially this funding is taken as input for the transaction. Let Alice and Bob are the two parties who opened the payment channel with funding of 10 BTC (5 BTC each). Additionally, Alice and Bob both create a secret (a string of numbers), and exchange the hash. Suppose Alice want to send 1 BTC to Bob then, Alice now immediately creates a subsequent transaction from the opening transaction called commitment transaction. With the commitment transaction, Alice sends four bitcoins to herself, and six bitcoins to a second multi-sig address. This address can be unlocked by Bob only after 1000 blocks and unlocked by Alice only if she knows the pre-image of the hash...</description>
+        <pubDate>Fri, 23 Feb 2018 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/lightning-networks-what-and-why</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/lightning-networks-what-and-why</guid>
+        
+        <category>Lightning Network</category>
+        
+        <category>Blockchain Lightning Network</category>
+        
+        <category>Bitcoin Scaling</category>
+        
+        <category>Bitcoin</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Microsoft Coco Framework - Things you need to know</title>
+        <description>What is Coco Framework Coco Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology. Coco achieves this by designing specifically for confidential consortiums, where nodes and actors are explicitly declared and controlled. Based on these requirements, Coco presents an alternative approach to ledger construction, giving enterprises the scalability, distributed governance and enhanced confidentiality they need without sacrificing the inherent security and immutability they expect. What can coco do? Leveraging the power of existing blockchain protocols, trusted execution environments (TEEs) such as Intel SGX and Windows Virtual Secure Mode (VSM), distributed systems and cryptography, Coco enables enterprise-ready blockchain networks that deliver: Throughput and latency approaching database speeds. Richer, more flexible, business-specific confidentiality models. Network policy management through distributed governance. Support for non-deterministic transactions. Coco system overview Coco is a foundation for all blockchain protocols. It provides base components like persistent ledger, node to node and application to node secure communications etc. to other blockchain protocols. Coco system consists of validating nodes termed as VNs. Each VN runs Coco framework and particular blockchain protocol. Every VN can verify the identity of other VN hence they are trusted. As per Coco framework white paper, VN can be further divided into logical components and can be categories into host or enclave. Trusted Execution environment aka TEE A TEE is a way of running code that operates in data that protects the process from disclosure and tampering from outside. The Trusted Execution Environment (TEE) is a secure area of the main processor. It guarantees code and data loaded inside to be protected with respect to confidentiality and integrity. The TEE as an isolated execution environment provides security features such as isolated execution, integrity of Trusted Applications along...</description>
+        <pubDate>Mon, 01 Jan 2018 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/microsoft-coco-framework</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/microsoft-coco-framework</guid>
+        
+        <category>Enterprise Blockchain</category>
+        
+        <category>Microsoft Coco Framework</category>
+        
+        <category>Coco Framework</category>
+        
+        <category>Scalable Blockchain</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Engineering ICO fundraiser platform</title>
+        <description>We engineered this easy to use investor dashboard to let you publicly sell your tokens in a safe and easy way, assisting both in the pre-sale and sale phases. Highlights Allow anyone in the world to participate. Leverage blockchain technology for a frictionless, global sale. Designed and built with the highest security standards used in OpenZeppelin. Seamlessly accept ETH, BTC or other major blockchain assets, sent from any type of wallet. Features KYC registration (Optional) Wallet Creation (Optional) Accepts ETH, BTC or other major blockchain assets Detailed Analytics Multilingual Support Pre-sale options Private investment Management ERC20 standard tokens (Exchange compatible) Technology Stack Considering many facts from performance to security we spend a lot of time choosing the right technology and securing the bits and pieces of the entire application. Also we spend quite a lot of time in making this easy to deploy and get up and running in less than a few minutes with your specification and requirements. Sounds good, right? Cool, lets walk trough the steps. 1. Application We use the latest stable version of Node.js for the application with Express 4 as the framework. Express is well known for its performance and wide range of security features comes with it. Many more available as plugins. We also made sure that most of the known issues are patched and available for auditing. 2. Database We have chosen the most comfortable database to use with this platform which is Mongodb. Mongodb is famous for its scalability and performance. You never know when are you going to hit your hardware limit, using a NOSQL databse like Mongodb makes it easy for you to scale horizontally in no time. 3. Security Security best practices for Express applications in production include: Don’t use deprecated or vulnerable versions of Express Use TLS Use...</description>
+        <pubDate>Fri, 17 Nov 2017 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/engineering-ico-fundraiser-platform</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/engineering-ico-fundraiser-platform</guid>
+        
+        <category>Fundraiser Platform</category>
+        
+        <category>Solidity</category>
+        
+        <category>ERC20</category>
+        
+        <category>ERC20 tokens</category>
+        
+        <category>ICO</category>
+        
+        <category>ICO Platform</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Music Royalties Calculator</title>
+        <description>The Music Team Royalties Calculator is a single page application prototype that demonstrates a framework where users can register and calculate the share or royalty revenues for each holder generated by different revenue streams for a given song or track, where the data is stored in the Ethereum blockchain.
+
+In this use case, the blockchain is used as an immutable registry that solves for data integrity across multiple organisations for the music industry and can also serve to automatically simulate the issuing of payments to share or royalty holders.
+
+Smart contracts manage the allocation of shares or royalty revenues for existing and new revenue streams or models based on the contours of copyright law and business practice.These are calculated based on the ownership percentages of publishing and recording rights and of other shareholders.
+
+Stakeholders
+
+
+  User: An individual that interacts with the platform
+  Admin: The role a User assumes to manage app settings
+  Publishing Rights holders: The owner(s) of a song’s Publishing Rights own(s) the rights to the composition; usually this is the author or authors of a piece of music. The authors are also the copyright owners unless there is an agreement by which the author assigns the copyright to another person or entity, such as a publisher.
+  Recording Rights holders: The owner or owners of the Recording Rights own the actual recording of the song’s sound. These rights usually belong to the party that financed the recording.
+  Revenue share holders: 3rd party or parties who have had publishing or recording rights transferred to them (eg: Social Marketers)
+
+</description>
+        <pubDate>Thu, 16 Nov 2017 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/music-royalties-calculator</link>
+        <guid isPermaLink="true">https://lightrains.com/work/music-royalties-calculator</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Smart Contract</category>
+        
+      </item>
+    
+      <item>
+        <title>ICO fundraiser platform</title>
+        <description>We engineered this easy to use dashboard to let you publicly sell your tokens in a safe and easy way, assisting both in the pre-sale and sale phases.
+
+Highlights
+
+
+  Allow anyone in the world to participate. Leverage blockchain technology for a frictionless, global sale.
+  Designed and built with the highest security standards used in OpenZeppelin.
+  Seamlessly accept ETH, BTC or other major blockchain assets, sent from any type of wallet.
+
+
+Features
+
+
+  KYC registrations (Optional)
+  Wallet Creation (Optional)
+  Accepts ETH, BTC or other major blockchain assets
+  Detailed Analytics
+  Multi-lingual
+  Pre-sale options
+  Private investment Management
+  ERC20 standard tokens (Exchange compatible)
+
+
+Read more about Engineering ICO fundraiser platform
+
+ico@lxightxraxins.com
+</description>
+        <pubDate>Thu, 16 Nov 2017 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/ico-fundraiser-dashboard</link>
+        <guid isPermaLink="true">https://lightrains.com/work/ico-fundraiser-dashboard</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Smart Contract</category>
+        
+      </item>
+    
+      <item>
+        <title>How to create mineable ERC20 tokens on Ethereum Solidity</title>
+        <description>What is a mineable token? Mining if the process of creating new tokens(achieving consensus on some data), similar to minting in fiat currency, however unlike fiat here in cryptocurrency we have mathematically provable methods. Some major consensus algorithms are and not limited to, Proof of Work Proof of Stake Proof of Authority Proof of Activity PBFT Difference between mineable and minted tokens Mineable tokens are tokens which can be created or minted based some activity. This so called activity can be anything, i.e, It can be as crazy as taking a picture of your cat and add it to the transaction data, depending upon the insanity level of the token programmer/team. Mintable tokens are also a way of creating tokens where you dont have to wait for some activity, you as the contract creator can create a token whenever you want. Most common approaches There are 2 major approaches when we do a mineable token 1. Block Rewards There are some ways to tie your coin supply to a mathematical formula. One of the simplest ways would be to make it a “merged mining” with ether, meaning that anyone who finds a block on ethereum would also get a reward from your coin, given that anyone calls the reward function on that block. You can do it using the special keyword coinbase that refers to the miner who finds the block. function issueBlockReward() { balanceOf[block.coinbase] += 5; } 2. Proof of Work (PoW) It’s also possible to add a mathematical formula, so that anyone who can do math can win a reward. On this next example you have to calculate the cubic root of the current challenge gets a point and the right to set the next challenge: uint currentChallenge = 1; // Can you figure out the cubic root...</description>
+        <pubDate>Sun, 12 Nov 2017 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/how-to-create-mineable-erc20-tokens</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/how-to-create-mineable-erc20-tokens</guid>
+        
+        <category>Mineable Token</category>
+        
+        <category>Solidity</category>
+        
+        <category>ERC20</category>
+        
+        <category>ERC20 tokens</category>
+        
+        <category>ICO</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Guide to launching a successful ICO</title>
+        <description>First things first, make sure your customers are going to benefit from your tokens means what is the ROI for investors. If you can convince your potential investors for these questions, consider yourselves half done. What is the purpose of the token in the project? Can it operate without the Token? Is there a proper way to bring the value to the token as well as into the chain where you are running the project and the ICO? You may want to refer to How to determine if you’ve found a real blockchain use case Setting up the Goals Raising money is the actual goal of any ICO right? You will have to have clear understanding on the following aspects of the project How much money do you want to raise and why? How are you going to use the funds? Key points to consider when youre planning an ICO Whitepaper MVP on github Bounty (Terms &amp;amp; Conditions) Project roadmap Setting up a solid team Technical structure of the ICO Legal structure Whitepaper Anything and everything you’re putting on your whitepaper is going to come back to you as money (well, $ETH). Start writing the whitepaper from your knowledge and make sure you are not missing any valuable points on your business. Some important things to consider adding on a whitepaper are Project Background Market Problems Market Size Token Business modal Product &amp;amp; USP Usage of funds Roadmap Team Bonus: Consider creating translations of your whitepaper and publish it. MVP on github It is good to showcase people the progress that you are making, consider makint it open source and keep it as active as possible. Well, you know this; if you are serious enough your platform should be active. Bounty (Terms &amp;amp; Conditions) Bounties are rewards for tasks like...</description>
+        <pubDate>Sat, 11 Nov 2017 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/guide-launching-successful-ico</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/guide-launching-successful-ico</guid>
+        
+        <category>ICO</category>
+        
+        <category>ICO Guidelines</category>
+        
+        <category>Handbook</category>
+        
+        <category>Initial Coin Offering</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Solidity Smart contract Security best practices</title>
+        <description>Security of a smart contract is more important than any other software or piece of code just because of the non-editable nature of it in general. Still, there are no widely adopted security standards or best practices for projects to follow. There are no tools for developers to easily create, test, verify and audit smart contracts, and do so collaboratively. Entire Ethereum community is grateful for researchers and developers of OpenZeppelin/zeppelin-solidity for the standard and well tested contract sources to relay on. External Calls Handling the funds Token standard Integer Division, Overflow and Underflow Fallback functions Race Conditions External Calls Calls to untrusted contracts can introduce several unexpected risks or errors. External calls may execute malicious code in that contract or any other contract that it depends upon. As such, every external call should be treated as a potential security risk, and removed if possible. Understand how send(), transfer(), and call.value()(). Using send() or transfer() will prevent reentrancy but it does so at the cost of being incompatible with any contract whose fallback function requires more than 2,300 gas. Handling the funds When developing a crowdsale smart contract, there are several options for handling the collection of funds. Take a look at the common ways in which the funds are getting handled. In contract:- The obvious method, we keep the funds in the contract itself during the crowdsale and transfer the funds to the developer address once the crowdsale is over. Forwarding:- Instead of temporarily storing the funds in the crowdsale contract, we can immediately forward them to a multisig wallet after each individual investment. However it opens a trust issue that the funds can be used to buy the token and corrupt the corwdsale itself. As a result an evolved mechanism is to keep the funds in a intermediate...</description>
+        <pubDate>Mon, 07 Aug 2017 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/smart-contract-best-practices-solidity</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/smart-contract-best-practices-solidity</guid>
+        
+        <category>Smart Contract</category>
+        
+        <category>Solidity</category>
+        
+        <category>ICO</category>
+        
+        <category>security</category>
+        
+        <category>Handbook</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Service discovery tools for microservices.</title>
+        <description>Service discovery tools for microservices No application is an island. They constantly communicate with other applications (services) – or, more precisely, instances of applications. Microservice architectures amplify the volume and frequency of these communications. Service discovery is how applications and (micro)services locate each other on a network. Service discovery implementations include both: a central server (or servers) that maintain a global view of addresses and clients that connect to the central server to update and retrieve addresses. Service discovery tools The main objective of service discovery tools is to help services find and talk to one another. In order to perform their duty they need to know where each service is. The concept is not new and many tools existed long before Docker was born. However, containers brought the need for such tools to a completely new level. Why do we need a service discovery mechanism? Get and set dynamic configuration across a distributed system: This is perhaps the most pressing problem that we need to solve. An SCM tool like Puppet/Anisble are great for managing static configurations but they are too heavy for dynamic changes. Service registration: We need to be able to spin up a track and have services make themselves visible via DNS. This would be useful primarily outside of production where we would want to regularly spin up and destroy tracks. That said, we don’t have a highly-distributed and elastic architecture so we could get by without this for a while. Service discovery: Services must be able to determine which host to talk to for a particular service. This may not be as important for production if we have a loadbalancer. In fact, a loadbalancer would be more transparent to our existing apps as they work at the IP level. That said, we don’t have a...</description>
+        <pubDate>Mon, 07 Aug 2017 05:30:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/service-discovery-tools-microsrvice</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/service-discovery-tools-microsrvice</guid>
+        
+        <category>Microservices</category>
+        
+        <category>Service discovery</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is meant by forking in a Blockchain?</title>
+        <description>You might heard of the term forking many times in the last few years, if you are in the Blockchain industry by any chance. Here we are attempting to provide a clear understanding of what is meant by forking. It is not a blockchain specific term; In software engineering, a project fork happens when developers take a copy of source code from one software package and start independent development on it, creating a distinct and separate piece of software. What is meant by forking in Blockchain - basics At its most basic, a fork is what happens when a blockchain diverges into two potential paths forward — either with regard to a network’s transaction history or a new rule in deciding what makes a transaction valid. But forks also can be willingly introduced to the network. This occurs when developers seek to change the rules the software uses to decide whether a transaction is valid or not. What is meant by forking in Blockchain - advanced Forking in each and every Blockchain is different, based on the design architecture and use case the chain. We shall look into a more generic scenario. Fork can happen in following situations Anytime two miners find a block at nearly the same time. Developers seek to change the rules the software uses to decide whether a transaction is valid or not. Types of Forks Soft fork: by contrast, is any change that’s backward compatible. Hard fork: is a software upgrade that introduces a new rule to the network that isn’t compatible with the older software User-activated soft fork (UASF): is a controversial idea that explores how a blockchain might add an upgrade that is not directly supported by those who provide the network’s hashing power. What happens when the blockchain forks? It’s actually quite...</description>
+        <pubDate>Fri, 16 Jun 2017 10:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/what-is-meant-by-forking-blockchain</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/what-is-meant-by-forking-blockchain</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>Bitcoin</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Principles</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>State management in React with Redux</title>
+        <description>Facebook released a tool to create React Apps with no need for configurations. If you’re just beginning to learn React, you might want to use create-react-app and get started Immediately.
+
+npm install -g create-react-app
+create-react-app react-redux-example
+cd react-redux-example/
+npm start
+
+
+Redux is a state management tool for react. It’s the most popular tool used to manage state.
+
+npm install --save redux
+
+
+There is a official React bindings for Redux. We can use that for easy binding.
+
+npm install --save react-redux
+
+
+So we are ready to start with React and Redux
+
+How to connect React to the Redux store?
+
+Import React,  ReactDOM, createStore from redux and Provider from react-redux
+
+import React from &apos;react&apos;
+import ReactDOM from &apos;react-dom&apos;
+import {createStore } from &apos;redux&apos;
+import { Provider } from &apos;react-redux&apos;
+
+Create your store with reducer. We can use a simple basic reducer here…
+
+function reducer(state = [], action) {
+  switch (action.type) {
+    case &apos;ADD_ACTION&apos;:
+      return [
+    ...state,
+    action
+  ]
+    default:
+      return state
+  }
+}
+let store = createStore(reducer)
+
+
+Use the provider to bind the store in all component
+
+ ReactDOM.render(
+  &amp;lt;Provider store={store}&amp;gt;
+    &amp;lt;App /&amp;gt;
+  &amp;lt;/Provider&amp;gt;,document.getElementById(&apos;root&apos;)
+)
+
+
+Now the store is available in all component. We can import connect from react-redux to get the state in components.
+
+Import connect in your component first
+
+import { connect } from &apos;react-redux&apos;
+
+
+Use connect to connect the component with the store
+
+export default connect()(YourComponentName)
+
+
+Use mapStateToProps and  mapDispatchToProps  to map the State and Dispatch to the props
+</description>
+        <pubDate>Wed, 07 Jun 2017 10:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/state-management-react-with-redux</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/state-management-react-with-redux</guid>
+        
+        <category>React</category>
+        
+        <category>Redux</category>
+        
+        <category>State management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Codewall</title>
+        <description>
+</description>
+        <pubDate>Thu, 30 Mar 2017 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/codewall</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/codewall</guid>
+        
+        <category>Codewall</category>
+        
+        <category>Downloads</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to set up private ethereum blockchain using ethcore/parity</title>
+        <description>Hope you know what a private blockchain and why do we need one, if not; please take a look at Private Permissioned Blockchain. After you’re done with the reading, lets proceed with setting up Parity. Parity: is an Ethereum client, written from the ground-up for correctness-verifiability, modularisation, low-footprint and high-performance. Step 1: Install Parity One-line Binary Installer: This method is way faster than building, though you won’t get the cutting edge features and it only works on Ubuntu and Mac with Homebrew installed. To use the script just run: bash &amp;lt;(curl https://raw.githubusercontent.com/ethcore/scripts/master/install-deps.sh -L) This will install and configure the Parity client for you. Step 2: Development set up. From parity 1.5 and above, it offers a pre-configured development flag to help you get started with ease. Of course you can change the parameters as required. Parity provides an dev engine, which can be used for dapp development and demos. parity –chain dev Features of parity --chain dev Transactions will get sealed at most every 2 seconds The address created with an empty phrase contains a lot of tokens that can be used to send transactions Customizing the development chain The default configuration should work fine in most cases, however it can be customized. The following example spec can be passed to –chain option where accounts contains a custom account with lots of Ether. { &quot;name&quot;: &quot;DevelopmentChain&quot;, &quot;engine&quot;: { &quot;instantSeal&quot;: { &quot;params&quot;: {} } }, &quot;params&quot;: { &quot;accountStartNonce&quot;: &quot;0x0&quot;, &quot;maximumExtraDataSize&quot;: &quot;0x20&quot;, &quot;minGasLimit&quot;: &quot;0x1388&quot;, &quot;networkID&quot; : &quot;0x11&quot; }, &quot;genesis&quot;: { &quot;seal&quot;: { &quot;generic&quot;: &quot;0x0&quot; }, &quot;difficulty&quot;: &quot;0x20000&quot;, &quot;author&quot;: &quot;0x0000000000000000000000000000000000000000&quot;, &quot;timestamp&quot;: &quot;0x00&quot;, &quot;parentHash&quot;: &quot;0x0000000000000000000000000000000000000000000000000000000000000000&quot;, &quot;extraData&quot;: &quot;0x&quot;, &quot;gasLimit&quot;: &quot;0x5B8D80&quot; }, &quot;accounts&quot;: { &quot;0000000000000000000000000000000000000001&quot;: { &quot;balance&quot;: &quot;1&quot;, &quot;builtin&quot;: { &quot;name&quot;: &quot;ecrecover&quot;, &quot;pricing&quot;: { &quot;linear&quot;: { &quot;base&quot;: 3000, &quot;word&quot;: 0 } } } }, &quot;0000000000000000000000000000000000000002&quot;: { &quot;balance&quot;: &quot;1&quot;, &quot;builtin&quot;: { &quot;name&quot;: &quot;sha256&quot;, &quot;pricing&quot;: { &quot;linear&quot;: {...</description>
+        <pubDate>Fri, 10 Mar 2017 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/setup-parity-private-blockchains</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/setup-parity-private-blockchains</guid>
+        
+        <category>Parity</category>
+        
+        <category>Private Blockchain</category>
+        
+        <category>Permissioned Blockchain</category>
+        
+        <category>Blockchain</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fixing npm permissions</title>
+        <description>This indicates that you do not have permission to write to the directories that npm uses to store global packages and commands.
+
+How bad is it?
+
+npm ERR! Linux 3.19.0-49-generic
+npm ERR! argv &quot;/usr/bin/nodejs&quot; &quot;/usr/bin/npm&quot; &quot;install&quot; &quot;-g&quot; &quot;hapi&quot;
+npm ERR! node v7.5.0
+npm ERR! npm  v4.1.2
+npm ERR! path /usr/lib/node_modules
+npm ERR! code EACCES
+npm ERR! errno -13
+npm ERR! syscall access
+
+npm ERR! Error: EACCES: permission denied, access &apos;/usr/lib/node_modules&apos;
+npm ERR!  { Error: EACCES: permission denied, access &apos;/usr/lib/node_modules&apos;
+npm ERR!   errno: -13,
+npm ERR!   code: &apos;EACCES&apos;,
+npm ERR!   syscall: &apos;access&apos;,
+npm ERR!   path: &apos;/usr/lib/node_modules&apos; }
+npm ERR!
+npm ERR! Please try running this command again as root/Administrator.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/light/npm-debug.log
+
+
+Read official documentation
+
+You can fix this problem using one of three options:
+
+
+  Change the permission to npm’s default directory.
+  Change npm’s default directory to another directory.
+  Install node with a package manager that takes care of this for you.
+
+
+How to Fix?
+
+Please check this gist
+
+
+  Run cd ~
+  Run wget http://pastebin.com/raw/1ccE6EgF -O fix_npm.sh
+  Run chmod +x fix_npm.sh
+  Run ./fix_npm.sh
+
+
+Official npm Video
+
+
+</description>
+        <pubDate>Fri, 10 Feb 2017 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/fixing-npm-permissions-install-global</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/fixing-npm-permissions-install-global</guid>
+        
+        <category>NodeJS</category>
+        
+        <category>npmjs</category>
+        
+        <category>Development Tools</category>
+        
+        <category>Tools</category>
+        
+        <category>Open Source</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is Bitcoin Segregated Witness aka segwit</title>
+        <description>Segregated Witness is a solution for the Bitcoin Core. It is spearheaded by Pieter Wuille, Johnson Lau, and Eric Lombrozo BIP141. The general idea of segwit is that the signatures in a transaction (aka witness data) are skipped when calculating the transaction id. Segregated Witness is basically an “add-on” that carries signatures and some additional data. Importantly, Segregated Witnesses are completely ignored by old nodes, but recognized by new nodes. Moreover, the data they carry is not hashed along with the other parts of a transaction into the transaction ID. Rationale The transaction size overhead is due to two factors: using a 256 bit hash for P2WSH rather than the 160 bit hash for P2SH; and encoding via P2SH so that old wallets that don’t support segwit can send funds that can be spent using segwit, allowing the receiver to gain segwit’s benefits. Without these two factors, the overhead would be negligible at -3 bytes for P2WPKH and +1 bytes for P2WSH. Segregated Witness Benefits The Segregated Witness soft-fork (segwit) includes a wide range of features, many of which are highly technical. Malleability Fixes: The way the txid is calculated allows anyone to make small modifications to the transaction that will not change its meaning, but will change the txid. This is called third-party malleability. BIP 62 (“dealing with malleability”) attempted to address these issues in a piecemeal manner, but was too complicated to implement as consensus checks and has been withdrawn. Linear scaling of sighash operations: A major problem with simple approaches to increasing the Bitcoin blocksize is that for certain transactions, signature-hashing scales quadratically rather than linearly. Doubling the size of a transaction increases can double both the number of signature operations, and the amount of data that has to be hashed for each of those signatures to...</description>
+        <pubDate>Mon, 06 Feb 2017 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/bitcoin-segregated-witness-segwit</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/bitcoin-segregated-witness-segwit</guid>
+        
+        <category>Segregated Witness</category>
+        
+        <category>Segwit</category>
+        
+        <category>Bitcoin</category>
+        
+        <category>UTXO</category>
+        
+        <category>Principles</category>
+        
+        <category>Blockchain</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Tendermint</title>
+        <description>What is Tendermint? Tendermint is software for securely and consistently replicating an application on many machines. To simply put Tendermint is a software which can be used to achieve Byzantine fault tolerance (BFT) in any distributed computing platforms. From managing infrastructure to designing a distributed database, we can use Tendermint. The ability to tolerate machines failing in arbitrary ways, including becoming malicious, is known as Byzantine fault tolerance (BFT). The theory of BFT is decades old, but software implementations have only became popular recently, due largely to the success of “blockchain technology” like Bitcoin and Ethereum. Blockchain technology is just a reformalization of BFT in a more modern setting, with emphasis on peer-to-peer networking and cryptographic authentication. The name derives from the way transactions are batched in blocks, where each block contains a cryptographic hash of the previous one, forming a chain. In practice, the blockchain data structure actually optimizes BFT design. doc Tendermint consists of two chief technical components: a blockchain consensus engine and a generic application interface. The consensus engine, called Tendermint Core, ensures that the same transactions are recorded on every machine in the same order. The application interface, called the Application BlockChain Interface (ABCI), enables the transactions to be processed in any programming language. How to write applications using Tendermint? As you can read from the official docs, Tendermint will not handle your keys, encryption or business logic, just the consensus and that’s it. ABCI Design The purpose of ABCI is to provide a clean interface between state transition machines on one computer and the mechanics of their replication across multiple computers. The former we call ‘application logic’ and the latter the ‘consensus engine’. Application logic validates transactions and optionally executes transactions against some persistent state. The ABCI design has a few distinct components: message protocol...</description>
+        <pubDate>Sun, 29 Jan 2017 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/intro-tendermint</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/intro-tendermint</guid>
+        
+        <category>Byzantine Fault Tolerance</category>
+        
+        <category>BFT</category>
+        
+        <category>Blockchain Consensus</category>
+        
+        <category>Tendermint</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Atlaschain</title>
+        <description>Atlaschain is a Decentralised, Permissioned Blockchain based GIS and digital assets platform. Maps are a precious resource and location is a powerful way to visualise and understand data. However getting data on a map and distributing it in a decentralised manner has been a challenge. We want to make GIS data available to everyone in a decentralised and permissioned (if needed) manner using blockchains. In addition, we want to use the blockchain as a proof of record for the existence of the data. Usage Scenarios for Atlaschain Publishing Public GIS Data on the Atlas Chain: By publishing this data on the Atlas Chain any organisation can take advantage of the properties of the block chain to ensure that an authoritative version of the dataset is available in a decentralised, immutable repository. This would improve the confidence of the public on the transparency and integrity of the data. It would also make it possible for anyone with any type of client to get at the data from different nodes reducing the load on public websites. Exchanging Private Data between a department and its members: There are scenarios where entities like the police force or fire force may want to call up a map of an area with certain extra statistics or information that is not publicly available. In this scenario a series of contracts between a department (like the fire force) and its members would be created in which the GIS Data would be encrypted and exchanged. The department would be able to selectively revoke a contract and remove the data access when needed. Exchanging Private GIS Data: There are often situations where two or more private entities agree to share their geo data for mutual benefit. In this scenario the data would be encrypted and signed by the transacting parties...</description>
+        <pubDate>Sat, 21 Jan 2017 01:01:01 +0530</pubDate>
+        <link>https://lightrains.com/work/atlaschain-gis-blockchain</link>
+        <guid isPermaLink="true">https://lightrains.com/work/atlaschain-gis-blockchain</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Smart Contract</category>
+        
+      </item>
+    
+      <item>
+        <title>Sneak Peak: Our vimrc</title>
+        <description>This is series of articles explaining our development Environment. This time we will be discussing
+about vimrc which is a configuration file that we can use to manage our Vim settings.
+
+You can find the file
+here.
+
+Basic Vim Settings
+
+
+  set number It enables line number in vim
+  set relativenumber Enables relative numbers in vim. Means Vim will adjust line numbers based on
+your current cursor position.
+  set linebreak Break lines at word if you have enabled wraplines.
+  set showbreak=+++ Identify breaked lines with +++
+  set textwidth=100 Line wrap (number of cols)
+  set showmatch Highlight matching brace
+  set hlsearch Highlight all search results
+  set smartcase Enable smart-case search
+  set ignorecase Always case-insensitive
+  set incsearch Searches for strings incrementally
+  set autoindent Auto-indent new lines
+  set smartindent Enable smart-indent
+  set smarttab Enable smart-tabs
+  set softtabstop=4 Number of spaces per Tab
+  autocmd BufRead,BufNewFile *.md setlocal spell Enables spell check for markdown files, ending with extension md
+  set complete+=kspell Enables spelling auto complete.
+
+
+Advanced Settings
+
+
+  set ruler “ Show row and column ruler information
+  set showtabline=0 “ Show tab bar
+  set undolevels=200 “ Number of undo levels
+  set backspace=indent,eol,start “ Backspace behaviours
+  filetype plugin on Enables filetype detection along with plugins.
+  set tabstop=2 Set tabstop to tell vim 2 columns a tab counts for
+  set shiftwidth=2 Set number of space characters inserted for indentation
+  set shiftround Round indent to multiple of ‘shiftwidth’.
+  set expandtab spaces to insert a Tab
+  set clipboard=unnamed Use the system clipboard
+  set regexpengine=1 Enables regular expression engine
+  set autoread Watch for file changes outside vim
+  set acd Changes the working directory on each load autochdir
+  let mapleader = &quot;\&amp;lt;Space&amp;gt;&quot; Map leader to Space bar
+  nnoremap &amp;lt;leader&amp;gt;&amp;lt;leader&amp;gt; &amp;lt;C-^&amp;gt; Switch buffers
+
+
+Remember
+
+You can view the help text for any commands by running :help COMMAND eg; :help regexpengine
+</description>
+        <pubDate>Tue, 29 Nov 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/sneak-peak-into-our-vimrc</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/sneak-peak-into-our-vimrc</guid>
+        
+        <category>Development Tools</category>
+        
+        <category>Vim</category>
+        
+        <category>vimrc</category>
+        
+        <category>Sneak Peak</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Liquid Voting</title>
+        <description>Liquid Voting is a blockchain based voting/decision making platform made at hack4people Hackathon by team lightrains. (niksmac, kp666 &amp;amp; sibizulu)
+
+Corruption exist because of concentrating of power. Our solution brings that power to the masses. This is brought by the power of decentralization on top of a tamper proof public blockchain. The voting platform is so powerful that it can pave the path to liquid democracy. The real impact is when we use the platform for day to day decision making in government activities.
+
+This platform uses Ethereum Private network as the Blockchain platform, and Solidity Smart contracts to record the votes as well as elections. Votes are saved in a tamper proof manner and the candidate can change the vote if the need arises.
+
+Inspiration
+
+
+  “The ballot is stronger than the bullet.”
+-Abraham Lincoln
+
+
+Intentions
+
+
+  Improve Transparency in Voting
+  Reduce security risk
+  Reduce cost of running an election
+  Act as a platform to vote on decisions.
+
+
+Outcome
+
+
+  Built on top of Blockchain
+  Elections are secured by Smart Contracts
+  Cost of infrastructure will be very less (~0.5%)
+
+
+Project
+
+
+  Master
+  Front End (UI)
+  Back end
+  Election Smart Contract
+  Slides
+
+</description>
+        <pubDate>Fri, 11 Nov 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/liquid-voting-blockchain-election</link>
+        <guid isPermaLink="true">https://lightrains.com/work/liquid-voting-blockchain-election</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Smart Contract</category>
+        
+      </item>
+    
+      <item>
+        <title>Rover.IM</title>
+        <description>Rover.IM is an Instant messaging platform focusing on data security, performance and privacy.
+
+Rover.IM is an alternative to WhatsApp where we can keep the sensitive data in-house and keep the information private without compromising performance.
+
+Features
+
+
+  End-to-End encrypted Chat (MTProto)
+  Send/receive documents, photo, audio and video;
+  Conversation archiving
+  Conference rooms aka Group chat
+  Automatic message holding
+  Suitable for Wifi, 3G and Edge
+  Tight data security (StartTLS, SSL and/or VPN)
+
+</description>
+        <pubDate>Thu, 10 Nov 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/rover-im-roverim</link>
+        <guid isPermaLink="true">https://lightrains.com/work/rover-im-roverim</guid>
+        
+        
+        <category>Android</category>
+        
+      </item>
+    
+      <item>
+        <title>How to set up elm development environment</title>
+        <description>Elm is a language that compiles to JavaScript, or in other words, Elm is a language to generate functional JavaScript code.
+
+
+  This guide is talking about installing and setting up elm version 0.17.1
+
+
+Why we need Elm?
+Elm is a programming language for declaratively creating web browser-based graphical user interfaces. Elm is purely functional, and is developed with emphasis on usability, performance, and robustness. It advertises “no runtime exceptions in practice”, made possible by the Elm compiler’s static type checking.
+
+Update 22, Oct 2016.
+
+  I came across Elm For Beginners amazing set of tutorials by James Moore, i would recommend watching it. Also his note on Development Environment Setup Steps
+
+
+Features of Elm
+
+
+  JavaScript Interop
+  No Runtime Exceptions
+  Great Performance
+  Enforced Semantic Versioning
+
+
+Read details.
+
+1. Installing Elm Platform.
+
+You can download the latest package from here.
+
+OR
+
+
+  Mac Installer
+  Windows Installer
+  Anywhere npm or build from source
+
+
+Configure Your Editor
+
+Before you start you can play around with the online editor to get familiarized with the language.
+
+
+  Atom
+  Emacs
+  Sublime Text
+  Vim
+
+
+Why should you consider using Elm?
+
+Elm offers many benefits over JavaScript, which you’ll see in this course.
+Benefits such as:
+
+  Zero Runtime Exceptions
+  Simplified Debugging
+  Easy Refactoring
+  Helpful Type System &amp;amp; Compiler
+  Improved Productivity
+  Inherently testable code
+  Enforced Semantic Versioning
+
+
+Source
+
+
+  guide.elm-lang.org
+  elmcast.io
+  elm-lang.org
+
+</description>
+        <pubDate>Fri, 14 Oct 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/setup-elm-development-environment</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/setup-elm-development-environment</guid>
+        
+        <category>Elm</category>
+        
+        <category>Elm-lang</category>
+        
+        <category>Development Tools</category>
+        
+        <category>Functional JavaScript</category>
+        
+        <category>Functional Programming</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What does each genesis.json parameter mean?</title>
+        <description>The Genesis block is the start block of the Blockchain - the first block, block 0, the only block that does not point to a predecessor block. Parameters of genesis.json nonce timestamp mixhash difficulty alloc parentHash extraData gasLimit coinbase Parameters and Explanation nonce A 64-bit hash, which proves, combined with the mix-hash, that a sufficient amount of computation has been carried out on this block: the Proof-of-Work (PoW). The combination of nonce and mixhash must satisfy a mathematical condition described in the Yellowpaper, 4.3.4. Block Header Validity, (44), and allows to verify that the Block has really been cryptographically mined and thus, from this aspect, is valid. The nonce is the cryptographically secure mining proof-of-work that proves beyond reasonable doubt that a particular amount of computation has been expended in the determination of this token value. (Yellowpager, 11.5. Mining Proof-of-Work). timestamp A scalar value equal to the reasonable output of Unix time() function at this block inception. This mechanism enforces a homeostasis in terms of the time between blocks. A smaller period between the last two blocks results in an increase in the difficulty level and thus additional computation required to find the next valid block. If the period is too large, the difficulty, and expected time to the next block, is reduced. The timestamp also allows verifying the order of block within the chain (Yellowpaper, 4.3.4. (43)). mixhash A 256-bit hash which proves, combined with the nonce, that a sufficient amount of computation has been carried out on this block: the Proof-of-Work (PoW). The combination of nonce and mixhash must satisfy a mathematical condition described in the Yellowpaper, 4.3.4. Block Header Validity, (44). It allows to verify that the Block has really been cryptographically mined, thus, from this aspect, is valid. difficulty A scalar value corresponding to the difficulty...</description>
+        <pubDate>Thu, 13 Oct 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/genesis-json-parameter-explained-ethereum</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/genesis-json-parameter-explained-ethereum</guid>
+        
+        <category>Ethereum</category>
+        
+        <category>Mining</category>
+        
+        <category>Difficulty</category>
+        
+        <category>DAG</category>
+        
+        <category>Principles</category>
+        
+        <category>Blockchain</category>
+        
+        <category>Genesis Block</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Noteworthy projects based on Blockchain Technology</title>
+        <description>Decentralized network existed before blockchain. But the key innovation of blockchain is its ability to hold the economic value, as pioneered as Bitcoin network. Currently, the blockchain is used in broad range of decentralized applications in many areas, including commerce, social media, content sharing, internet services, logistics and even government. Here are some Blockchain and Ethereum based projects. Git Money (Bitcoin) Git Money allows anyone to earn money by solving open issues on GitHub. Repository owners put up bounties for tasks and the reward is automatically paid to whoever submits the first successfully merged pull request. How it works Git opportunities: Every day people and companies are paying to get quick assistance with small tasks, find one suitable for you. Git work: An email a day will give you the list of work so that you can choose your work to get paid Get paid: Complete a task, provide your bitcoin address and get paid instantly. Augur (Ethereum) Augur is a prediction market platform that rewards for correctly predicting the future real-world events. Make the predictions by trading virtual shares in the outcome of events happening in the real world, buy shares in those outcomes. If the shares are in correct outcome you’ll win real money as profit. Features No central servers Create your own market Low fees Crowdsourced reporting Safe, automated payments TransActive Grid (Ethereum) TransActive Grid allows neighbors to purchase and sell renewable energy among each other, offering communities with microgrids a way to create a local energy market while reducing emissions and pollution. How it works Distributed Energy Resources: Brooklyn Microgrid is a distributed energy development group in the Park Slope and Gowanus communities of Brooklyn, New York creating a connected network for local energy. TransActive Grid: TransActive Grid is combination of ​software ​and hardware ​that enables...</description>
+        <pubDate>Wed, 28 Sep 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/noteworthy-blockchain-projects</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/noteworthy-blockchain-projects</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>Blockchain Projects</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open source Blockchain platforms</title>
+        <description>Open source software is revolutionizing technology by enabling companies to speed development, reduce costs, increase innovation, and improve efficiency. Never before has any open source project generated as much attention on the international stage as Bitcoin. But now a days the world is looking into open source Blockchain platforms. Here are some open source Blockchain platforms. 1. Eris erisindustries.com A software that allows anyone to create their own secure, low-cost and run anywhere application using Blockchain and smart contract technology. Communities, government and anybody else can use smart contracts to automate their business with Eris. Eris is free software that allows anyone to build their own secure, low-cost, run-anywhere applications using blockchain and smart contract technology. Features Services: Things that you turn on and off Chains: Develop permissioned chains Contracts: There is a smart contract tool chain in Eris Actions: Every action is step by step. 2. HydraChain hydrachain.com HydraChain is an extension of the Ethereum platform which adds support for creating Permissioned Distributed Ledgers. Its primary domain of application are private chain or consortium chain setups especially in the financial industry. Features Full compatibility to the Ethereum Protocol Accountable Validators Instant finality Native Contracts Customizability Easy Deployment Open source Commercial support 3. MultiChain multichain.com Allows organizations to rapidly design, deploy and operate Distributed ledgers Features Managed Permission Rapid deployment Native asset support Customizable Bitcoin compatible Extendable 4. OpenChain openchain.org Openchain is an open source distributed ledger technology. It is suited for organizations wishing to issue and manage digital assets in a robust, secure and scalable way. Anyone can spin up a new Openchain instance within seconds. The administrator of an Openchain instance defines the rules of the ledger. End-users can exchange value on the ledger according to those rules. Every transaction on the ledger is digitally signed, like with...</description>
+        <pubDate>Thu, 22 Sep 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/opensource-blockchain-platforms</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/opensource-blockchain-platforms</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>Platforms</category>
+        
+        <category>Development Tools</category>
+        
+        <category>Open Source</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Functional Programming in JavaScript</title>
+        <description>In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements. wiki If you’re looking for a quick start in Functional Programming, JavaScript is the perfect language for you. Here’s why: Almost all programmers have tweaked and / or written JavaScript code at some point of time — hence there should be a certain familiarity JavaScript comes as close to a standardized programming language we’ll get — it’s the only programming language available across all web browsers JavaScript comes with a very familiar C like syntax and should be readable to most programmers Functions have always been first class members in JavaScript, support for Functional Programming is very good and in many ways JavaScript has been ahead of its time JavaScript doesn’t have Java like Class based Object Oriented Programming support so in many ways you’re forced to be Functional in JavaScript Main fancy words you will hear Pure functions Higher-order functions Recursion Functor Compose Destructuring Currying Pure functions Returns the same result given same parameters. It’s execution doesn’t depend on the state of the system. Impure let number = 1 const increment = () =&amp;gt; (number += 1) increment() // 2 Pure const increment = (n) =&amp;gt; n + 1 increment(1) // 2 Higher-order functions Functions that operate on other functions, either by taking them as arguments or by returning them. Sum const sum = (x, y) =&amp;gt; x + y const calculate = (fn, x, y) =&amp;gt; fn(x, y) calculate(sum, 1, 2) // 3 Filter let students = [ { name: &apos;Anna&apos;, grade: 6 }, { name: &apos;John&apos;,...</description>
+        <pubDate>Wed, 21 Sep 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/functional-javascript-es6-introduction</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/functional-javascript-es6-introduction</guid>
+        
+        <category>Functional JavaScript</category>
+        
+        <category>ES6</category>
+        
+        <category>JavaScript</category>
+        
+        <category>Functional Programming</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Tmux</title>
+        <description>tmux is a “terminal multiplexer”, it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. Install tmux. tmux depends on libevent 2.x. Download it from: libevent.org From source By default, tmux will use the utempter library to update utmp(5), if it is installed. Run configure with --disable-utempter to disable this. To build tmux from a release tarball, do: $ ./configure &amp;amp;&amp;amp; make $ sudo make install To get and build the latest from version control: $ git clone https://github.com/tmux/tmux.git $ cd tmux $ sh autogen.sh $ ./configure &amp;amp;&amp;amp; make Install tmux in Mac OSX Yes, you can do brew install tmux Starting Tmux You can start a tmux session by tmux attach or simply tmux a command. Managing the configuration. You can manage all the configurations with .tmux.conf file. Which will reside in your home folder. You can check with cat ~/.tmux.conf to see whether there is any. Multiple Pane Synchronization What setw synchronise-panes gives us is that it simultaneously sends keyboard input from one pane to the rest of the panes. (In this case, we can also see the the Elixir REPL is far superior because of the colored output.) Obviously, this demonstration is a mere party trick to impress developers and nothing more. A good use case is having to perform a repetitive operation on multiple machines. For example, imagine having a tmux session connected to four remote hosts and having to executer the exact same command on all of them. Noteworthy plugins. 1. Tmux Plugin Manager Installs and loads TMUX plugins. 2. tmux-resurrect Restore tmux environment after system restart. Tmux is great, except when you have to restart the computer. You lose all the...</description>
+        <pubDate>Sat, 03 Sep 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/tmux-tips</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/tmux-tips</guid>
+        
+        <category>Development Tools</category>
+        
+        <category>Tmux</category>
+        
+        <category>Tools</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is Private Permissioned Blockchain</title>
+        <description>Properly permissioned blockchain networks differ from unpermissioned blockchain networks solely based on the presence (or absence) of an access control layer built into the blockchain clients.
+
+The first primary difference between a properly conceived permissioned blockchain network and an unpermissioned blockchain network is whether the participants in the network have an ability to restrict who can participate in the consensus mechanism of the blockchain’s network.
+
+Permissioned blockchain networks allow the network to appoint a group of participants in the network who are given the express authority to provide the validation of blocks of transactions. Or, to participate in the consensus mechanism.
+
+Why do we need Permissioned Blockchain
+
+To understand the benefits of permissioned blockchain networks to their participants, we must consider the relative advantages which they have vis a vis their unpermissioned cousins.
+
+We must also consider the relative advantages which permissioned blockchain networks have vis a vis their cousins on the other side of the spectrum: hub and spoke distributed databases.
+
+
+  Governance Over A Permissioned Blockchain is Clearly Defined
+  More Cost Effective
+  Extra layer of security is there. (could be)
+
+
+Sources
+
+  https://docs.erisindustries.com
+
+
+
+  
+    
+    Talk to one of our  blockchain consultant.
+  
+
+  
+ hexlxlo@xligxhtrxaxixnxs.com
+
+
+
+</description>
+        <pubDate>Fri, 12 Aug 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/what-private-permissioned-blockchain</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/what-private-permissioned-blockchain</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>Private Blockchain</category>
+        
+        <category>Permissioned Blockchain</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Blockchain for Insurance Industry</title>
+        <description>Insurance companies have been traditionally slow to drive adoption in technologies. These innovation strategies and initiatives are aimed at retaining customers and optimizing pricing and tradability of services. Insurers who have trust at the heart have begun to appreciate with technologies such as blockchain because they believe that a “trustless” system (which pushes identity management, ownership and management of data and processes to the customer) may provide genuine long-term strategic benefits. Whats is meant by trust-less: The greatest advantage of blockchains is its decentralized protocol which is often referred as “Trust to the trust-less world”. Because every part of the system is continually checking and approving the work of the others. Therefore, if any piece of information will be changed on one machine, it won’t be approved by the others as all of them hold the same record. In the banking industry, several blockchain use conditions are being integrated, which range from customer-facing repayment technology to switch and trading services.While the insurance industry (in conditions of technology adoption) lags behind banking, it is nevertheless uniquely positioned to reap the benefits of blockchain technology. Blockchain can address the competitive challenges many incumbents face, including poor customer engagement, limited growth in mature markets, and the trends of digitization. In the next, we format the most appealing insurance-related use circumstances in three categories: enabling progress, increasing efficiency, and lowering cost by automating key techniques. Potential use cases Validate authenticity, ownership, and provenance of goods as well as authenticity of documents (e.g., medical reports) Check for police theft reports/claims history as well as a person’s verified identity and detect patterns of fraudulent behavior related to a specific identity Prove date and time of policy issuance or purchase of a product/asset Confirm subsequent ownership and location changes. How CAN we keep the files on the...</description>
+        <pubDate>Fri, 12 Aug 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/blockchain-for-insurance-industry</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/blockchain-for-insurance-industry</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>Whitepaper</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What Is Bitcoin and how is it useful</title>
+        <description>Bitcoin is a decentralized digital currency, created and held electronically. No one controls it. They’re not printed, produced by people, and increasingly businesses, running computers all around the world, using software that solves mathematical problems.
+
+Satoshi Nakamoto, a software developer proposed bitcoin, which was an electronic payment system based on mathematical proof. Idea was to produce a currency independent of any central authority, transferable electronically, more or less instantly, with very low transaction fees.
+
+Characteristics of Bitcoin
+
+
+  Decentralized
+  Easy to set up
+  Anonymous
+  Transparent
+  Minimal Transaction fee
+  Fast transaction
+  Non-repudiable
+
+
+How does one acquire bitcoins?
+
+
+  As payment for goods or services.
+  Purchase bitcoins at a Bitcoin exchange.
+  Exchange bitcoins from anyone.
+  Earn bitcoins through mining.
+
+
+Advantage/Disadvantage of Bitcoin
+
+Advantages:
+
+
+  Payment Freedom:- It is possible to send and receive bitcoins anywhere in the world at any time
+  Less transaction Fees:- No fee to receive bitcoins. You can choose your transaction fee and many wallets let you control how large a fee to pay when spending.
+  Risk Free:- Bitcoin transactions are secure, irreversible, and do not contain customers’ sensitive or personal information.
+  Highly secured:- Bitcoin payments can be made without personal information tied to the transaction thus offers strong protection against identity theft.
+  Neutral and Transparent:- All information about the Bitcoin money supply is available on the block chain and anybody can verify and use in real-time.
+
+
+Disadvantages:
+
+
+  Degree Of Acceptance:- Many people are still unaware of Bitcoin.
+  Volatility:- The price of the Bitcoin is volatile, it varies as per time.
+  Ongoing Development:- Bitcoin is still in the process of maturing.
+
+</description>
+        <pubDate>Tue, 09 Aug 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/bitcoin-how-is-useful</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/bitcoin-how-is-useful</guid>
+        
+        <category>Bitcoin</category>
+        
+        <category>Cryptocurrency</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ES6 Transpilers</title>
+        <description>What is a Transpiler
+A source-to-source compiler, transcompiler or transpiler is a type of compiler that takes the
+source code of a program written in one programming language as its input and produces the
+equivalent source code in another programming language. A source-to-source compiler translates
+between programming languages that operate at approximately the same level of abstraction, while
+a traditional compiler translates from a higher level programming language to a lower level
+programming language. wiki
+
+List of ES6 Transpilers
+
+  Babel: To transpile ES6 into ES5 for static builds
+  Babelify: To incorporate babel into your Gulp, Grunt, or npm run build process
+  Traceur compiler: ES6 features &amp;gt; ES5. Includes
+classes, generators, promises, destructuring patterns, default parameters &amp;amp; more.
+  es6ify: Traceur compiler wrapped as a Browserify v2 transform
+
+
+ES6 to ES5 Transpilation Example
+For this example we are using Babel’s live transpiler to see the code
+in action.
+
+ES6 Code
+
+import config from &apos;./config/env&apos;;
+import app from &apos;./config/express&apos;;
+
+// listen on port config.port
+app.listen(config.port, () =&amp;gt; {
+  debug(`server started on port ${config.port} (${config.env})`);
+});
+
+export default app;
+
+
+ES5 Converted
+
+&apos;use strict&apos;;
+
+Object.defineProperty(exports, &quot;__esModule&quot;, {
+  value: true
+});
+
+var _env = require(&apos;./config/env&apos;);
+
+var _env2 = _interopRequireDefault(_env);
+
+var _express = require(&apos;./config/express&apos;);
+
+var _express2 = _interopRequireDefault(_express);
+
+function _interopRequireDefault(obj) { return obj &amp;amp;&amp;amp; obj.__esModule ? obj : { default: obj }; }
+
+// listen on port config.port
+_express2.default.listen(_env2.default.port, function () {
+  debug(&apos;server started on port &apos; + _env2.default.port + &apos; (&apos; + _env2.default.env + &apos;)&apos;);
+});
+
+exports.default = _express2.default;
+
+
+Sources
+
+
+  https://scotch.io
+  https://github.com/bevacqua/es6#introduction
+  https://github.com/addyosmani/es6-tools
+
+</description>
+        <pubDate>Sun, 07 Aug 2016 05:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/es6-transpilers</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/es6-transpilers</guid>
+        
+        <category>ES6</category>
+        
+        <category>Transpiler</category>
+        
+        <category>Ecmascript 6</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Getting started with Solidity.</title>
+        <description>Solidity is a high-level language whose syntax is similar to that of JavaScript and it is designed to compile to code for the Ethereum Virtual Machine. As you will see, it is possible to create contracts for voting, crowdfunding, blind auctions, multi-signature wallets and more.
+
+Solidity is the programming language that we use to create Etherem based Smart Contracts.
+
+I have covered the steps to install Solidity in my previous blog Compile and Deploy Solidity
+Contract
+
+Data Types
+
+Booleans
+
+  bool: The possible values are constants true and false.
+
+
+Operators:
+
+
+  ! (logical negation)
+  &amp;amp;&amp;amp; (logical conjunction, “and”)
+  
+    
+      
+        
+           
+          (logical disjunction, “or”)
+        
+      
+    
+  
+  == (equality)
+  != (inequality)
+
+
+Integers
+
+int / uint: Signed and unsigned integers of various sizes. Keywords uint8 to uint256 in steps of 8 (unsigned of 8 up to 256 bits) and int8 to int256. uint and int are aliases for uint256 and int256, respectively.
+
+Address
+address: Holds a 20 byte value (size of an Ethereum address). Address types also have members and serve as base for all contracts.
+
+Next we will look into Expressions and Control Structures
+
+Source
+
+
+  Official Docs
+  Types
+
+
+
+  
+    
+    Talk to one of our  blockchain consultant.
+  
+
+  
+ hexlxlo@xligxhtrxaxixnxs.com
+
+
+
+</description>
+        <pubDate>Mon, 01 Aug 2016 09:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/ethereum-solidity-getting-started</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/ethereum-solidity-getting-started</guid>
+        
+        <category>Ethereum</category>
+        
+        <category>Solidity</category>
+        
+        <category>EVM</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ECMAScript 6 Classes.</title>
+        <description>ECMAScript 6 (ES6, often referred to as Harmony) is the upcoming sixth major release of the ECMAScript language specification.The technology bringing a lot of amazing features that we will need to know. One of the main feature that introducing by the  ES6 is “Javascript Classes”.
+
+Classes
+Classes are the main  new OOP paradigm in ES6 which make code syntatic sugar.That means classes make prototype-based OO pattern much simpler and boosts interoperability.Classes supports inheritance,instance and static methods which makes ES6 more user friendly.
+
+Class body and methods
+The body of a class is enclosed in curly braces {}.Here we can define methods or constructors.
+
+Constructor:
+A special method for creating and initializing an object created with a class.
+
+Example:
+
+class Number{
+    constructor(num1, num2) {
+        this.num1 = num1;
+        this.num2 = num2;
+    }
+    calcSum() {
+        return this.num1 + this.num2;
+    }
+    getSum(){
+        return this.calcSum();
+    }
+}
+numOperation = new Number(20, 10);
+console.log(numOperation.getSum);
+
+
+Subclassing using extend keyword:
+The extends keyword is used in class declarations or class expressions to create a class as a child of another class.
+
+Example:
+
+class Animal {
+    constructor(name) {
+        this.name = name;
+    }
+    speak() {
+        console.log(this.name + &apos; makes a noise.&apos;);
+    }
+}
+class Dog extends Animal {
+    speak() {
+        console.log(this.name + &apos; barks.&apos;);
+    }
+}
+
+</description>
+        <pubDate>Mon, 01 Aug 2016 02:10:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/es6-classes</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/es6-classes</guid>
+        
+        <category>ES6</category>
+        
+        <category>Ecmascript 6</category>
+        
+        <category>ES6 Tutorials</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bitcoins most Intriguing Qualities</title>
+        <description>Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitcoin on bitcoin.org.Some of Bitcoin’s Most Intriguing Qualities Bitcoin Cryptocurrency A cryptocurrency (or crypto currency) is a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency.[1] Cryptocurrencies are a subset of alternative currencies, or specifically of digital currencies. wiki Bitcoin and bitcoin Aren’t the Same Bitcoin with a capital ‘B’ is used when referring to the network, while the currency is spelt with a small ‘b’. There Will Only Ever Be 21 Million bitcoins we can accurately predict, almost to the exact hour, the date the 21 millionth, and last, bitcoin will enter circulation. Bitcoin is Operated by Users, Not Institutions Bitcoin is run through a peer-to-peer network, meaning that there is no central control, but rather the control is decentralised throughout the user base. bitcoins Aren’t Minted; They’re Mined Unlike traditional currency, bitcoins exist as a result of a production process called mining. People use computers to solve complex mathematical algorithms in order to introduce new bitcoins into the economy. bitcoins Are Stored in Digital Wallets, Not Banks User store their bitcoins safely online Bitcoin Transactions are Pseudonymous The true names of buyers and sellers are never revealed. Though each transaction is recorded in a public ledger (blockchain) only their wallet ID’s will be represented, bitcoin is Divisible to 1 Million Bits One bitcoin can be broken down to 1,000,000 bits. 0,00000001 of a bitcoin is known as a satoshi, Bitcoin Network is Virtually ‘Unhackable’ Bitcoin is secured by military-grade cryptography. The only considerable source ever imposing a threat would be quantum computing, which does not yet exist. Bitcoin Computes More Than 100,000 Transactions a Day...</description>
+        <pubDate>Fri, 29 Jul 2016 12:23:22 +0530</pubDate>
+        <link>https://lightrains.com/blogs/intriguing-qualities-of-bitcoin</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/intriguing-qualities-of-bitcoin</guid>
+        
+        <category>Bitcoin</category>
+        
+        <category>Blockchain</category>
+        
+        <category>Cryptocurrency</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ES6 Data Structures</title>
+        <description>ES6 introduces many new features to embrace the developer as well as the browsers to perform
+in a optimal performant way.
+
+Set
+Set is new type of data structure that we can use to store Unique values which can be of
+any type but they must all be uniqie.
+
+Create a Set
+
+To create a set we use Set constructor var mySet = new Set();
+
+Add Values to set
+
+let myArray = [1, 4, 1, 5, 5, 7, 8, 9, 0, 0]
+let mySet = new Set(myArray)
+
+
+Now if you do a console.log(mySet); you will see
+Set {1, 4, 5, 7, 8, 9, 0}
+
+Map
+
+Map is similar to Set but it manges key-value pair instead of individual values.
+
+Create a Map
+
+var myMap = new Map(); will create an instance of Map and to add values to it we can do let
+myOtherMap = new Map([[&apos;a&apos;, 2], [1, &apos;b&apos;]])
+
+console.log(myOtherMap); will show Map {&quot;a&quot; =&amp;gt; 2, 1 =&amp;gt; &quot;b&quot;}
+
+WeakSet and WeakMap
+Similar to regular Map and Set but the difference is that the object references inside them are
+held weakly. So it wont prevent garbage collection.
+</description>
+        <pubDate>Tue, 26 Jul 2016 09:10:12 +0530</pubDate>
+        <link>https://lightrains.com/blogs/es6-data-structres</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/es6-data-structres</guid>
+        
+        <category>ES6</category>
+        
+        <category>ES6 Tutorials</category>
+        
+        <category>Ecmascript 6</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Function parameters in es6</title>
+        <description>There are 2 types of function parameters available in es6,
+
+
+  Default Parameters
+  Rest Parameters
+
+
+Default Parameter
+Default parameter are a way to pass a value to the function parameter when there is no value is being passed by the callee during invocation.
+
+We specify this value when defining a function,
+
+function printName ( name = &apos;there&apos; ) {
+  return `Hello,  ${name}`
+}
+
+We can even use the default parameter of one parameter as part of an expression for another
+paramter. For eg:
+
+function printName ( name = &apos;there&apos;, fullname = name + &apos; lastName&apos; ) {
+  return `Hello,  ${name} -  ${fullname} `
+}
+
+
+Rest Parameters
+The rest parameter syntax allows us to represent an indefinite number of arguments as an array.
+
+This is achieved by using a new operator called Spread Operator which is represented by ... 3dots
+
+Spread Operator
+It is used when we want to pass an array to a function as individual arguments of that function. For
+eg:
+
+function sum (x, y, z ) {
+  return x + y + z;
+}
+let values = [1, 2, 3]
+// notice the usage of ...
+sum(...values)
+
+
+Another Example
+function f(x, ...y) {
+ // y is an Array
+ return x * y.length;
+}
+f(3, &quot;hello&quot;, true) == 6
+
+
+If the last named argument of a function is prefixed with ..., it becomes an array whose elements from 0 (inclusive) to theArgs.length (exclusive) are supplied by the actual arguments passed to the function.
+
+In the above example, theArgs would collect the third argument of the function (because the first one is mapped to a, and the second to b) and all the consecutive argument
+
+Sources:
+
+
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+  https://lightrains.com/blogs/es6#default–rest–spread
+
+</description>
+        <pubDate>Wed, 20 Jul 2016 09:12:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/function-parameteres-ecmascript6-es6</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/function-parameteres-ecmascript6-es6</guid>
+        
+        <category>ES6</category>
+        
+        <category>ES6 Tutorials</category>
+        
+        <category>Ecmascript 6</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Common useful JavaScript snippets for geth</title>
+        <description>This is a collection of common useful scripts that are handy when you do any kind of developemt on the Ethereum Virtual Machine aka EVM. This collection of scripts are availabe in github niksmac/ethereum-scripts 1. Print Block Details This function is uswful when you want to print the details of a block in the console function printBlock(block) { console.log(&quot;Block number : &quot; + block.number + &quot;\n&quot; + &quot; hash : &quot; + block.hash + &quot;\n&quot; + &quot; parentHash : &quot; + block.parentHash + &quot;\n&quot; + &quot; nonce : &quot; + block.nonce + &quot;\n&quot; + &quot; sha3Uncles : &quot; + block.sha3Uncles + &quot;\n&quot; + &quot; logsBloom : &quot; + block.logsBloom + &quot;\n&quot; + &quot; transactionsRoot: &quot; + block.transactionsRoot + &quot;\n&quot; + &quot; stateRoot : &quot; + block.stateRoot + &quot;\n&quot; + &quot; miner : &quot; + block.miner + &quot;\n&quot; + &quot; difficulty : &quot; + block.difficulty + &quot;\n&quot; + &quot; totalDifficulty : &quot; + block.totalDifficulty + &quot;\n&quot; + &quot; extraData : &quot; + block.extraData + &quot;\n&quot; + &quot; size : &quot; + block.size + &quot;\n&quot; + &quot; gasLimit : &quot; + block.gasLimit + &quot;\n&quot; + &quot; gasUsed : &quot; + block.gasUsed + &quot;\n&quot; + &quot; timestamp : &quot; + block.timestamp + &quot;\n&quot; + &quot; transactions : &quot; + block.transactions + &quot;\n&quot; + &quot; uncles : &quot; + block.uncles); if (block.transactions != null) { console.log(&quot;--- transactions ---&quot;); block.transactions.forEach( function(e) { printTransaction(e); }) } } 2. Check all Balances Can be used to cheak balances of all accounts inside your keystore; ie, you own both the keys. function checkAllBalances() { var i =0; eth.accounts.forEach( function(e){ console.log(&quot; eth.accounts[&quot;+i+&quot;]: &quot; + e + &quot; \tbalance: &quot; + web3.fromWei(eth.getBalance(e), &quot;ether&quot;) + &quot; ether&quot;); i++; }) }; 3. Get Account Balances And Including TheDAO Tokens function padTokens(s, n) { var o = s.toPrecision(n); while (o.length &amp;lt; n) {...</description>
+        <pubDate>Fri, 15 Jul 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/useful-ethereum-geth-javascript-snippets</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/useful-ethereum-geth-javascript-snippets</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+        <category>geth</category>
+        
+        <category>go-ethereum</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction to IPFS</title>
+        <description>IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository. In other words, IPFS provides a high-throughput, content-addressed block storage model, with content-addressed hyperlinks. What is IPFS? From their README: IPFS is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. IPFS could become a new major subsystem of the internet. If built right, it could complement or replace HTTP. It could complement or replace even more. It sounds crazy. It is crazy. HTTP is inefficient and expensive HTTP downloads a file from a single computer at a time, instead of getting pieces from multiple computers simultaneously. With video delivery, a P2P approach could save 60% in bandwidth costs. The web’s centralization limits opportunity The Internet has been one of the great equalizers in human history and a real accelerator of innovation. But the increasing consolidation of control is a threat to that. Our apps are addicted to the backbone Developing world. Offline. Natural disasters. Intermittent connections. All trivial compared to interplanetary networking. The networks we’re using are so 20th Century. We can do better. How IPFS works Each file and all of the blocks within it are given a unique fingerprint called a cryptographic hash. IPFS removes duplications across the network and tracks version history for every file. Each network node stores only content it is interested in, and some indexing information that helps figure out who...</description>
+        <pubDate>Tue, 05 Jul 2016 00:12:49 +0530</pubDate>
+        <link>https://lightrains.com/blogs/ipfs-introduction</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/ipfs-introduction</guid>
+        
+        <category>IPFS</category>
+        
+        <category>Decentralization</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is DAG in Ethereum Blockchain</title>
+        <description>Dagger Hashimoto is a proposed spec for the mining algorithm for Ethereum 1.0. Dagger Hashimoto aims to simultaneously satisfy two goals:
+
+
+  ASIC-resistance: the benefit from creating specialized hardware for the algorithm should be as small as possible, ideally to the point that even in an economy where ASICs have been developed the speedup is sufficiently small that it is still marginally profitable for users on ordinary computers to mine with spare CPU power.
+  Light client verifiability: a block should be relatively efficiently verifiable by a light client.
+
+
+Why do we need DAG in Ethereum?
+Ethereum uses Ethash (Proof of Work system). as of now 
+Ethash PoW is memory hard, making it basically ASIC resistant. This basically means that calculating the PoW requires choosing subsets of a fixed resource dependent on the nonce and block header. This resource (a few gigabyte size data) is called a DAG. Clients wishing to store the DAG in a cache should conform to this spec in order to share the cache with other clients:
+
+Where is DAG stored
+The DAG should be stored in a 1GB dump (for the initial epoch, anyway), in a file:
+
+Mac/Linux: $(HOME)/.ethash/full-R&amp;lt;REVISION&amp;gt;-&amp;lt;SEEDHASH&amp;gt;
+Windows: $(HOME)/Appdata/Local/Ethash/full-R&amp;lt;REVISION&amp;gt;-&amp;lt;SEEDHASH&amp;gt;
+
+Format
+
+Each file should begin with an 8-byte magic number, 0xfee1deadbaddcafe, written in little-endian format (i.e., bytes fe ca dd ba ad de e1 fe).
+
+The Ethash algorithm expects the DAG as a two-dimensional array of uint32s (4-byte unsigned ints), with dimension (n × 16) where n is a large number. (n starts at 16777186 and grows from there.) Following the magic number, the rows of the DAG should be written sequentially into the file, with no delimiter between rows and each unint32 encoded in little-endian format.
+
+Sources
+
+  Dagger-Hashimoto
+  Ethash DAG
+  Directed acyclic graph - In mathematics and computer science
+
+</description>
+        <pubDate>Sun, 03 Jul 2016 00:07:20 +0530</pubDate>
+        <link>https://lightrains.com/blogs/dag-ethereum-blockchain</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/dag-ethereum-blockchain</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>DAG</category>
+        
+        <category>Principles</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ECMAScript 6</title>
+        <description>ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard. ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now. Content is copied shamelessly from lukehoban/es6features ES6 includes the following new features: arrows classes enhanced object literals template strings destructuring default + rest + spread let + const iterators + for..of generators unicode modules module loaders map + set + weakmap + weakset proxies symbols subclassable built-ins promises math + number + string + array + object APIs binary and octal literals reflect api tail calls ECMAScript 6 Features Arrows Arrows are a function shorthand using the =&amp;gt; syntax. They are syntactically similar to the related feature in C#, Java 8 and CoffeeScript. They support both statement block bodies as well as expression bodies which return the value of the expression. Unlike functions, arrows share the same lexical this as their surrounding code. // Expression bodies var odds = evens.map(v =&amp;gt; v + 1); var nums = evens.map((v, i) =&amp;gt; v + i); var pairs = evens.map(v =&amp;gt; ({even: v, odd: v + 1})); // Statement bodies nums.forEach(v =&amp;gt; { if (v % 5 === 0) fives.push(v); }); // Lexical this var bob = { _name: &quot;Bob&quot;, _friends: [], printFriends() { this._friends.forEach(f =&amp;gt; console.log(this._name + &quot; knows &quot; + f)); } } More info: MDN Arrow Functions Classes ES6 classes are a simple sugar over the prototype-based OO pattern. Having a single convenient declarative form makes class patterns easier to use, and encourages interoperability. Classes support prototype-based inheritance, super calls, instance and static methods and constructors. class SkinnedMesh extends THREE.Mesh { constructor(geometry, materials) { super(geometry, materials); this.idMatrix = SkinnedMesh.defaultMatrix(); this.bones = []; this.boneMatrices...</description>
+        <pubDate>Thu, 30 Jun 2016 01:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/es6</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/es6</guid>
+        
+        <category>ES6</category>
+        
+        <category>ECMAScript 2015</category>
+        
+        <category>Ecmascript 6</category>
+        
+        <category>ES6 Tutorials</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Evolving the Identity</title>
+        <description>Big news! Today, after five years, we’re releasing an updated brand identity, which includes a new logo, colors, and font. You’ll see the new look anywhere we’re out in public, like our website, Facebook, and Twitter; very soon you’ll see it in all of our products, as well.
+
+We started by distilling the essence of our brand down to its colors on a clean white background—and built it back up.
+
+Our design goal was to better match how we look to our values and the users we serve. A small team inside the company worked to find something that appeared crisp, approachable, smart, friendly, and connected.
+
+Though it was time for change,
+We’re still the same team: focused on Consulting &amp;amp; Development on Blockchain, Drupal and ES6.
+
+As we begin this new chapter in Vision’s history, we are appreciative of each one of our customers, who collaborate with us daily to create next generation technology. We look forward to continued partnership and great things to come.
+
+Sincerely,
+
+Nikhil Mohan
+COO
+</description>
+        <pubDate>Thu, 23 Jun 2016 01:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/new-brand-identity-lightrains-tech</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/new-brand-identity-lightrains-tech</guid>
+        
+        <category>Brand</category>
+        
+        <category>Typography</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is a DAO aka Decentralized Autonomous Organization</title>
+        <description>A Decentralized autonomous organizations (“DAO”) is a new type of organization, best comparable to a digital company, but without an attached legal entity. Made from irrefutable computer code, it is operated entirely by its community Essentially, it’s a non-human specific entity, who’s sole duty is to abide by a specific programmatic set of rules; or by the rules granted to it by decentralized consensus (majority decides what to do in a distributed manner). So far, all contracts we listed were owned and executed by other accounts probably held by humans. But there is no discrimination against robots or humans in the Ethereum ecosystem and contracts can create arbitrary actions like any other account would. Contracts can own tokens, participate in crowdsales, and even be voting members of other contracts. “On the Blockchain, no one knows you’re a fridge” - Richard Brown What is a DAO token A DAO leverages smart contracts on the Ethereum blockchain so that anyone, anywhere in the world can be empowered to participate. In exchange for their early help, participants receive DAO tokens which hold many benefits. Owning DAO tokens functions in a similar way to having shareholder rights in an actual company. By owning DAO tokens… You can submit proposals for funding You can vote on which proposals are funded Receive profits from funded projects Technical The code of a given DAO will be difficult to alter once the system is up and running, including bug fixes that would be trivial in centralised code. Corrections for a DAO would require writing new code and agreement to migrate all the funds. Although the code is visible to all, it is hard to repair, thus leaving known security holes open to exploitation unless a moratorium is called to enable bug fixing. wiki Then there is The DAO...</description>
+        <pubDate>Thu, 23 Jun 2016 01:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/what-is-dao-decentralized-autonomous-organization</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/what-is-dao-decentralized-autonomous-organization</guid>
+        
+        <category>DAO</category>
+        
+        <category>The DAO</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Compile and Deploy Solidity Contract</title>
+        <description>Contracts live on the blockchain in an Ethereum-specific binary format (Ethereum Virtual Machine (=EVM) bytecode). This tutorial explains how to deploy the byte code to Ethereum Blockchain For the frontier release, geth supports solidity compilation through system call to solc, the command line solidity compiler by Christian R. and Lefteris K. Step 1. Install Solidity Compiler Solc Easy way Its very easy to install solc using npm the package manager for NodeJS the command is npm install solc Easier way Browser-Solidity If you just want to try Solidity for small contracts, you can try browser-solidity which does not need any installation. If you want to use it without connection to the Internet, you can also just save the page locally or clone http://github.com/chriseth/browser-solidity. Building from Source Assuming you are using Ubuntu 14.04 sudo apt-add-repository ppa:george-edison55/cmake-3.x sudo apt-get -y update sudo apt-get -y install language-pack-en-base sudo dpkg-reconfigure locales sudo apt-get -y install software-properties-common sudo add-apt-repository -y ppa:ethereum/ethereum sudo add-apt-repository -y ppa:ethereum/ethereum-dev sudo apt-get -y update sudo apt-get -y upgrade And pull the solidity source code git clone --recursive https://github.com/ethereum/webthree-umbrella.git cd webthree-umbrella ./webthree-helpers/scripts/ethupdate.sh --no-push --simple-pull --project solidity # update Solidity repo ./webthree-helpers/scripts/ethbuild.sh --no-git --project solidity --all --cores 4 -DEVMJIT=0 Step 2. Verify Solidity Compiler To ensure solc is installed and ready to use, you can verify it by running eth.getCompilers() in geth console If you have it installed, it should output something like this: [&apos;Solidity&apos; ] Bonus. Compile a simple contract Let us take this simple contract source: source = &quot;contract test { function multiply(uint a) returns(uint d) { return a * 7; } }&quot; This contract offers a unary method: called with a positive integer a, it returns a * 7. You are ready to compile solidity code in the geth JS console using eth.compile.solidity &amp;gt; contract = eth.compile.solidity(source).test { code:...</description>
+        <pubDate>Fri, 17 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/compile-deploy-solidity-contract-ethereum-console-geth-part-1</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/compile-deploy-solidity-contract-ethereum-console-geth-part-1</guid>
+        
+        <category>Blockchain</category>
+        
+        <category>Smart Contract</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Histup Social Media Wall</title>
+        <description>A novel and Unique Method of Digital Branding
+We Sync and Brought together the user generated and branded content Social Media Feeds into one place from over four Social Networks.
+
+How Hitsup Works for you
+
+Connect &amp;amp; Merges Social Media Feeds: Connect yours or your company’s social media updates or feeds to a single social Media Wall. Hitsup merges content from any of your social platforms into homogenous streams. So, for instance, one stream can contain posts of Twitter, Facebook and Google+. All posts have the same data-format, no matter where they were composed.
+
+Unified Social Media Content: Hitsup seamlessly integrate unified social content into your website, application or content management system
+
+Configure streams online in your browser.
+
+
+  Embed Hitsup’s adaptive and beautifully designed stream widget
+  Each stream comes with its own profile page
+  No technical knowledge required
+
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/hitsup-social</link>
+        <guid isPermaLink="true">https://lightrains.com/work/hitsup-social</guid>
+        
+        
+        <category>Consulting</category>
+        
+      </item>
+    
+      <item>
+        <title>SCEB Smart Contract Templates for Banking</title>
+        <description>SCEB is a platform for financial institutions to take advantage of the blockchain based smart-contracts as templates in everyday banking.
+
+Technology Stack
+
+
+  Ethereum Blockchain
+  Embark Framework
+  Solidity - smart-contract language
+  IPFS - decentralised file storage
+
+
+Potential benefits
+
+
+  Cost Reductions
+  Efficiency Improvements
+  Reduce Risk
+  Reusable contracts
+  Less paperwork
+
+
+
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/smart-contract-templates-banking-sceb</link>
+        <guid isPermaLink="true">https://lightrains.com/work/smart-contract-templates-banking-sceb</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Smart Contract</category>
+        
+      </item>
+    
+      <item>
+        <title>Canned Emails</title>
+        <description>Canned Emails is a minimal site with prewritten emails, useful for people who prefer easy way of doing things.
+
+Canned Emails officially introduced in Google Labs: Canned Responses on Tuesday, October 21, 2008 by Chad Parry, Gmail engineer
+
+How to enable Canned Responses in Gmail
+
+
+  The upper right-hand corner of Gmail, then choose Settings.
+  Click the Labs tab, find Canned Responses, click the Enable radio button to enable Canned Responses, scroll down and click Save Changes.
+  Compose an email message you’d like to use over and over again, and then click the arrow in the lower right-hand corner of the message window.
+  The next time someone emails you something that warrants the canned response you created, reply to the message and instead of typing your response, click the arrow button in the lower right-hand corner, select Canned Responses, and then under Insert, choose the canned response you created in the previous step. You’ll then see your response appear in the body of your reply.
+
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/canned-emails</link>
+        <guid isPermaLink="true">https://lightrains.com/work/canned-emails</guid>
+        
+        
+        <category>Open Source</category>
+        
+      </item>
+    
+      <item>
+        <title>MetroMatinee</title>
+        <description>MetroMatinee is a top entertainment Malayalam movie website, providing the latest daily Malayalam movie and celebrity news inside information in a fun, irreverent tone.
+
+Why Drupal was chosen:
+
+Drupal was really the only considered platform for this project. Drupal is so flexible, and with an excellent API framework can accommodate almost all conceivable functionality. Having worked with Drupal on many enterprise projects, we knew it could handle the expectations of such an important client.
+
+Project (goals, requirements and outcome):
+
+Technically there were a few key requirements:
+
+
+  The site must be easy for content editors to manage (of course!)
+  New articles should be (optionally) pushed to Facebook
+  Existing users must be easily migrated to the new site, along with their previous profile and comments
+  The UX must be truly responsive and engaging on all devices
+  Content pages must be built from existing collections of text, quote, image, and audio “stories”
+  The site must be able to handle large surges of visitors and traffic spikes - many thousands of concurrent visitors
+
+
+Key modules/theme/distribution used:
+
+
+  Views
+  Entity API
+  Entity reference
+  Entity Reference View Widget
+  Media
+  Facebook API
+  Comment block
+  Chaos tool suite (ctools)
+  Feeds
+  Cookie Control
+  CDN
+
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/metromatinee</link>
+        <guid isPermaLink="true">https://lightrains.com/work/metromatinee</guid>
+        
+        
+        <category>Consulting</category>
+        
+      </item>
+    
+      <item>
+        <title>Kerala Startup Mission</title>
+        <description>Kerala Startup Mission (KSUM) is India’s first and successful Non Academic Business Incubator, hosted and housed inside Asia’s Largest IT Park Technopark.
+
+We dedicated 2 weeks for a comprehensive study of the information architecture. Having analyzed a suitable structure model for the content, we were able to start the wire-framing stage. Wireframes helped us interconnect all kinds of content types and entities of the website. We took full advantage of Drupal 7 and its new features. The fact that all entities come with fields helped us to create all the interconnections through references.
+
+Overall, the fact that the client was very clear about their requests and needs from the beginning was enormously helpful in our effort to focus more on the concept, the design and the development. Requirements being met, the whole project kept us busy for 5 months. We exclusively worked with SCRUM methods, delivering segments of the website every 10 days.
+
+Why Drupal was chosen:
+
+Drupal was chosen because of its wide variety of contributed modules and community support
+
+Key modules/theme/distribution used:
+
+
+  Organic groups
+  Views
+  Flag
+  Rules
+  ImageCache
+  Feeds
+  Facebook Style Statuses
+
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/kerala-startup-mission</link>
+        <guid isPermaLink="true">https://lightrains.com/work/kerala-startup-mission</guid>
+        
+        
+        <category>Consulting</category>
+        
+      </item>
+    
+      <item>
+        <title>Fungible Loyalty Tokens</title>
+        <description>Flot is a blockchain based Inter-Operable Fungible Loyalty Tokens. The ides is to bring all non-competing business into one umbrella and let them share the value of Loyalty Points together hence inter-operable.
+
+Flot is first presented in “ICICI Appathon”, its mobile app development challenge. Flot got special mention from the Jury. The jury comprised Mr. Rajiv Sabharwal, Executive Director, ICICI Bank; Mr. Anup Gupta, Managing Director, Nexus Venture Partners; Mr. Ashish Kumar, Vice President - Cloud, IBM Asia Pacific; and Mr. T.R. Ramachandran, Group Country Manager-India &amp;amp; South Asia, VISA.
+
+Key elements
+
+
+  Loyalty points are fungible across platforms
+  Tamper proof storage
+  Fungibility
+    
+      Convertible to Fiat Money/Crypto-currency
+      Inter-Operable
+    
+  
+  Seamless integration with any other platforms.
+  Easy to manage redeems, no double spend.
+  Offers and vouchers can be executed as a smart-contract
+  Multiple activities can trigger loyalty points
+  Easy to manage micro-loyalty points
+
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/flot-blockchain-loyalty-tokens</link>
+        <guid isPermaLink="true">https://lightrains.com/work/flot-blockchain-loyalty-tokens</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Smart Contract</category>
+        
+      </item>
+    
+      <item>
+        <title>Solo PDF Reader</title>
+        <description>Solo PDF Reader is simply the best, fast and light PDF reader for rendering PDF files easily. The clean and elegant interface make reading a pleasure. Slide through the pages smoothly as it feels just like reading a real book. Solo PDF Reader automatically scan your device and external memory for PDF files and fetch them immediately after you launch it. The application consumes less memory without any compromise in performance. You will love Solo PDF Reader once you start using it.
+Solo PDF Reader supports multi-touch zooming, text search, portrait and landscape orientations. More than 50,000 users now use Solo PDF to access, read and share a large variety of PDF types, including documents, portfolios, scanned files, images etc.
+
+Solo PDF Reader is free to download. No hidden charges.
+
+
+  Compatible with almost every Android device.
+  Solo PDF Reader is the best available app for reading pdf files.
+
+
+Features
+
+
+  Solo PDF Reader is faster compared to other Android PDF readers.
+  View and access recently viewed documents using ‘Recent’ menu.
+  Easily switch to any page using the slide bar.
+  Automatically restore last read pages.
+  Last viewed date available.
+
+
+Show some love; Share Solo PDF Reader via Facebook, Twitter, LinkedIn.
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/solo-pdf-reader</link>
+        <guid isPermaLink="true">https://lightrains.com/work/solo-pdf-reader</guid>
+        
+        
+        <category>Android</category>
+        
+      </item>
+    
+      <item>
+        <title>How to setup a local test Ethereum Blockchain</title>
+        <description>Setting up a private chain is useful for testing purposes or simply for playing around with, I couldn’t find a good tutorial on it so I thought I would write my own. In this tutorial we are working on Ubuntu 14.04 LTS and Go Implementation of Ethereum go-ethereum or simply geth Prerequisites geth ubuntu 14.04 The Fist Block - Genesis Block The Genesis block is the start block of the Blockchain - the first block, block 0, the only block that does not point to a predecessor block. It’s the entry point into the Blockchain database. The Genesis data defines initial parameters of the database and defines a cryptographically valid entry block. You might think thats a flaw in the system being able to decide the starting conditions of the chain, but the consensus algorithm will ensure that no other node will agree with your version of the blockchain unless they have the same genesis block (and some other crucial parameters, discussed later). How to Create Genesis Block Great, so how do we make one of these genesis blocks? Well its fairly simple the following JSON is all you really need: { &quot;nonce&quot;: &quot;0x0000000000000042&quot;, &quot;mixhash&quot;: &quot;0x0000000000000000000000000000000000000000000000000000000000000000&quot;, &quot;difficulty&quot;: &quot;0x4000&quot;, &quot;alloc&quot;: {}, &quot;coinbase&quot;: &quot;0x0000000000000000000000000000000000000000&quot;, &quot;timestamp&quot;: &quot;0x00&quot;, &quot;parentHash&quot;: &quot;0x0000000000000000000000000000000000000000000000000000000000000000&quot;, &quot;extraData&quot;: &quot;Custem Ethereum Genesis Block&quot;, &quot;gasLimit&quot;: &quot;0xffffffff&quot; } Save the JSON into a file lets call it genesis.json and save in your home directory. $ geth --genesis &amp;lt;genesis json file path&amp;gt; --datadir &amp;lt;some path to an empty folder&amp;gt; --networkid 123 --nodiscover --maxpeers 0 console This command does a few things: It utilises the genesis block json to seed the blockchain It uses the datadir to store all state necessary to maintain the newly created blockchain and other data (declared to prevent you clobbering your main net data, wouldn’t want to overwrite all those blocks...</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/setup-local-ethereum-blockchain-private-testnet</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/setup-local-ethereum-blockchain-private-testnet</guid>
+        
+        <category>Private Blockchain</category>
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+        <category>Testnet</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is Ethereum</title>
+        <description>Ethereum is a public blockchain-based distributed computing platform, featuring smart contract functionality. It provides a decentralized virtual machine, the Ethereum Virtual Machine (EVM), that can execute peer-to-peer contracts using a cryptocurrency called ether.
+
+
+  Applications build with Ethereum do not cover all use cases of course, but have specific properties that make them unique:
+  Ethereum applications always execute the code they say they will - there is no ‘security through obscurity’. I don’t need to ‘trust’ anything or anyone, because I can check the app code myself.
+  Ethereum applications are always available, and are guaranteed to be available in the future. There is no downtime.
+Ethereum applications are resistant to many attacks including denial of service (DDoS), which are rendered moot.
+
+
+Important links
+
+  ethereum.org
+  wiki
+
+
+
+</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/what-is-ethereum</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/what-is-ethereum</guid>
+        
+        <category>Ethereum</category>
+        
+        <category>Cryptocurrency</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is Bitcoin the currency</title>
+        <description>Bitcoin is a form of digital currency, created and held electronically. No one controls it. Bitcoins aren’t printed, like dollars or euros – they’re produced by people, and increasingly businesses, running computers all around the world, using software that solves mathematical problems. What makes it different from normal currencies? Bitcoin can be used to buy things electronically. In that sense, it’s like conventional dollars, euros, or yen, which are also traded digitally. However, bitcoin’s most important characteristic, and the thing that makes it different to conventional money, is that it is decentralized. No single institution controls the bitcoin network. This puts some people at ease, because it means that a large bank can’t control their money. Who created it? A software developer called Satoshi Nakamoto proposed bitcoin, which was an electronic payment system based on mathematical proof. The idea was to produce a currency independent of any central authority, transferable electronically, more or less instantly, with very low transaction fees. Why Bitcoins? Bitcoins can be used to buy merchandise anonymously. In addition, international payments are easy and cheap because bitcoins are not tied to any country or subject to regulation. Small businesses may like them because there are no credit card fees. Some people just buy bitcoins as an investment, hoping that they’ll go up in value. Characteristics of Bitcoin Decentralized Easy to set up Anonymous Transparent Minimal Transaction fee Fast transaction Non-repudiable How does one acquire bitcoins? As payment for goods or services. Purchase bitcoins at a Bitcoin exchange. Exchange bitcoins from anyone. Earn bitcoins through mining. Advantage/Disadvantage of Bitcoin Advantages: Payment Freedom:- It is possible to send and receive bitcoins anywhere in the world at any time Less transaction Fees:- No fee to receive bitcoins. You can choose your transaction fee and many wallets let you control how...</description>
+        <pubDate>Mon, 13 Jun 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/what-is-bitcoin-currency</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/what-is-bitcoin-currency</guid>
+        
+        <category>Bitcoin</category>
+        
+        <category>Principles</category>
+        
+        <category>Cryptocurrency</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ethereum Wallet</title>
+        <description>An Ethereum Wallet, is a simple app to check ethereum balance.
+
+Features
+
+
+  Check your Balance
+  Check Block Statistics
+  Price Statistics
+
+
+Update 2016-05-21
+
+We are abandoning this project because people putting money into this wallet. This was never built to handle the security risks. We build this app as a part of our exploration on the Ethereum Blockchain.
+
+The app is built on ionic framework, feel free to fork away and submit your changes.
+</description>
+        <pubDate>Fri, 15 Apr 2016 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/ethereum-wallet</link>
+        <guid isPermaLink="true">https://lightrains.com/work/ethereum-wallet</guid>
+        
+        
+        <category>Blockchain</category>
+        
+        <category>Ethereum</category>
+        
+      </item>
+    
+      <item>
+        <title>Cryptocurrency 101 - Part 2/3 - Why use cryptocurrencies instead of cash?</title>
+        <description>This is probably the most common question asked.
+First, we need to take a look at the evolution of trade:
+
+
+  Initially, trade was done through a barter system. You have an asset I want, I have an asset you want, let’s trade. Here, a apple farmer can trade his apples to a sheep herder for wool.
+  Here, we run into a problem. What if you don’t have something I want? Metals, particularly gold and silver, were often used as a mechanism for trade.
+  With the rise of kingdoms and nations, many wanted to show their reign and would melt metals and recast them to showcase an emblem with their nation.
+  Eventually, nations realized that metals weren’t efficient, and paper money was created.
+  With the rise of the internet, we now have online banking, where currency is just digital figures.
+
+
+This is a simple look, but it’s obvious that cryptocurrencies are the next evolution of trade.
+
+
+  Like most features in evolution, the unregulated — capitalistic supply/demand — aspect is based off the Great Recession of 2007.
+
+
+
+
+Sources
+
+
+  http://bitcoin.stackexchange.com/q/182/30316
+  https://medium.com/@sebfung/cryptocurrencies-101-c1c0a5a3cc2
+
+</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/cryptocurrency-101-why-use-cryptocurrencies-instead-cash</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/cryptocurrency-101-why-use-cryptocurrencies-instead-cash</guid>
+        
+        <category>Cryptocurrency</category>
+        
+        <category>Handbook</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cryptocurrency 101 - Part 1/3 - The Basics</title>
+        <description>What is a Cryptocurrency? A cryptocurrency is essentially an alternative virtual currency that can be used to buy and sell goods and services in the same way as a traditional “fiat” currency. Transactions are made via a secure encrypted channel to transfer money between virtual “wallets”, without needing to go through a traditional bank or credit card provider. Cryptocurrencies make it easier to transfer funds between two parties in transactions; these transfers are facilitated through the use of public and private keys for security purposes. These fund transfers are done with minimal processing fees, enabling users to avoid the steep fees charged by most banks and financial institutions for wire transfers. How it works Cryptocurrencies are a bit different to traditional currencies. They offer a “decentralized” medium of exchange, which means that they derive their value from their community of users, unlike traditional currencies that are controlled by central banks and government regulation. This means that the value can fluctuate a lot more like a stock or commodity, dependent on the amount of supply and demand for that currency. What gives them their value? They have value because they are scarce, fungible (one Bitcoin is as good as another), easily transferred, and easily verified. The only other component they need to have value is a general agreement that they will be used as a medium of exchange or a prevailing belief that they will be in the future. It is the variation in these two factors that accounts for most of the volatility in the value of Bitcoins today. They aren’t backed by anything because they’re a commodity. What is gold backed by? Prices are based on supply and demand, the rate at which a cryptocurrency can be exchanged for another. Advantages of Cryptocurrency 1. Land of the Free With...</description>
+        <pubDate>Fri, 08 Jan 2016 00:00:00 +0530</pubDate>
+        <link>https://lightrains.com/blogs/cryptocurrency-101</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/cryptocurrency-101</guid>
+        
+        <category>Cryptocurrency</category>
+        
+        <category>Handbook</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pegke Loyalty</title>
+        <description>Pegke Customer Loyalty &amp;amp; Rewards Software that not only rewards the customers for their brand loyalty but also makes the customers stay loyal to their favourite franchises. Pegke is an easy-to-use software designed and shaped elegantly by Technopark engineers that is advantageous to both the business and customers. After setting up their account, the business owners are able to set loyalty points for specific sales and are also able to reward customers based on their accumulated points and redeemable items. Pegke Loyalty helps in measuring how successfully your marketing strategies are turning out to be. How often the customers are revisiting the store and what drives them the most. When it comes to marketing we have a built in platform for merchants to target their prospective customers based on geographical area as well as their purchase interest. Why Drupal was chosen: Leveraging Drupal 7, unleashed Technologies was able to develop an enterprise platform that would empower Pegke and its franchisees to control and manage their offers and increase revenues through improved user experience and SEO capabilities. High quality contributed modules which enable it to scale well to support very high traffic. Out of the box rich content management features and can be extended to match the very specific requirements of our website. An intuitive admin interface, enabling our web editorial team to update the site quickly and easily Key modules/theme/distribution used: Advanced CSS/JS Aggregation Location Metatag Views Ubercart Session Limit Token Support Ticketing System Mandrill Why these modules/theme/distribution were chosen: Advanced CSS/JS Aggregation: Make sure we are not making too many unnecessary http requests and wasting our resources. Location: Location is our primary feature, we wanted to get it working as quick as possible with a pre-planned manner and Location fits our needs. Metatag: Metatag is one of the unavoidable...</description>
+        <pubDate>Sat, 13 Jun 2015 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/work/pegke-loyalty</link>
+        <guid isPermaLink="true">https://lightrains.com/work/pegke-loyalty</guid>
+        
+        
+        <category>Blockchain</category>
+        
+      </item>
+    
+      <item>
+        <title>PSC HUB is now available as Telegram Bot</title>
+        <description>Now Telegram Messenger Users can Get PSC HUB - Kerala PSC Questions as a Telegram Bot, Through this users can
+
+
+  Get Random Questions in a Chat
+  Realtime Questions
+  Your Statistics
+  Instant Support
+
+
+How I get this Inside Telegram Messenger
+
+
+  Open Telegram Messenger
+  Search for “pschub”
+  You will see “PSC HUB Bot”
+  Just start the bot and enjoy.
+  Or Simply Click HERE
+
+
+What is a Bot
+Bots are simply Telegram accounts operated by software – not people – and they’ll often have AI features. They can do anything – teach, play, search, broadcast, remind, connect, integrate with other services, or even pass commands to the Internet of Things.
+</description>
+        <pubDate>Sun, 17 May 2015 11:19:48 +0530</pubDate>
+        <link>https://lightrains.com/blogs/psc-hub-kerala-psc-questions-available-telegram-bot</link>
+        <guid isPermaLink="true">https://lightrains.com/blogs/psc-hub-kerala-psc-questions-available-telegram-bot</guid>
+        
+        <category>Products</category>
+        
+        <category>Telegram</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

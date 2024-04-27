@@ -1,0 +1,245 @@
+body.page-spa {
+  padding: 0;
+}
+.masthead.segment {
+  min-height: 700px;
+  padding: 1em 0em;
+}
+.masthead {
+  .logo.item img {
+    margin-right: 1em;
+  }
+  .ui.menu .ui.button {
+    margin-left: 0.5em;
+  }
+  h1.ui.header {
+    margin-top: 3em;
+    margin-bottom: 0em;
+    font-size: 4em;
+    font-weight: normal;
+  }
+
+  h2 {
+    font-size: 1.7em;
+    font-weight: normal;
+    color: #aaa;
+  }
+}
+.ui.vertical.stripe {
+  padding: 8em 0em;
+}
+.ui.vertical.stripe h3 {
+  font-size: 2em;
+}
+.ui.vertical.stripe .button + h3,
+.ui.vertical.stripe p + h3 {
+  margin-top: 3em;
+}
+.ui.vertical.stripe .floated.image {
+  clear: both;
+}
+.ui.vertical.stripe p {
+  font-size: 1.33em;
+}
+.ui.vertical.stripe .horizontal.divider {
+  margin: 3em 0em;
+}
+
+.quote.stripe.segment {
+  padding: 0em;
+
+  .grid .column {
+    padding-top: 5em;
+    padding-bottom: 5em;
+  }
+}
+
+.footer.segment {
+  padding: 5em 0em;
+}
+.team.segment {
+  overflow: auto;
+}
+
+@media only screen and (max-width: 700px) {
+  .ui.fixed.menu {
+    display: none !important;
+  }
+  .secondary.pointing.menu .item,
+  .secondary.pointing.menu .menu {
+    display: none;
+  }
+  .masthead.segment {
+    min-height: 350px;
+  }
+  .masthead h1.ui.header {
+    font-size: 2em;
+    margin-top: 1.5em;
+  }
+  .masthead h2 {
+    margin-top: 0.5em;
+    font-size: 1.5em;
+  }
+}
+.ui.inverted.segment {
+  background: url(/assets/img/crowdfunding.jpg) no-repeat center center fixed
+    #333333;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.ui.secondary.inverted.pointing.menu {
+  border: 0;
+}
+.ui.segment.ctasegment {
+  border-radius: 8px !important;
+  border: 0 none;
+  margin: 30px 0;
+  box-shadow: 0 2px 44px 0 rgba(12, 65, 84, 0.4) !important;
+}
+.ui.pcard {
+  padding: 20px 0 10px 0;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 8px 15px 0 rgba(5, 57, 106, 0.06);
+
+  &:hover {
+    background: #e2faff;
+    transform: scale(1.05);
+    transition: box-shadow 0.2s ease, transform 0.2s ease, z-index 0s 0s ease;
+  }
+
+  span {
+    clear: both;
+    display: block;
+  }
+}
+
+.team_member {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  height: 250px;
+}
+
+.info {
+  height: 100%;
+}
+
+.info img {
+  width: 100%;
+  transition: all 0.4s ease-out 0.1s;
+  -moz-transition: all 0.4s ease-out 0.1s;
+  -webkit-transition: all 0.4s ease-out 0.1s;
+}
+
+.info h5 {
+  padding: 10px 10px 0 0;
+  margin: 0 0 10px 3px;
+  line-height: 1em;
+  opacity: 1;
+  transition: all 0.2s ease-out 0.1s;
+  -moz-transition: all 0.2s ease-out 0.1s;
+  -webkit-transition: all 0.2s ease-out 0.1s;
+  font-size: 1.125em;
+}
+
+.info h6 {
+  padding: 0 10px 0 0;
+  font-size: 12px;
+  margin: 0 0 0 3px;
+  line-height: 1em;
+  text-transform: uppercase;
+  color: #999;
+  opacity: 1;
+  transition: all 0.2s ease-out 0.1s;
+  -moz-transition: all 0.2s ease-out 0.1s;
+  -webkit-transition: all 0.2s ease-out 0.1s;
+}
+
+.info_reveal {
+  height: 100%;
+  transition: all 0.3s ease-in 0s;
+  -moz-transition: all 0.3s ease-in 0s;
+  -webkit-transition: all 0.23s ease-in 0s;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: -100%;
+  background: rgba(19, 148, 119, 0.9);
+}
+
+.info_reveal h6 {
+  padding: 20px 8px 5px 8px;
+  line-height: 1.1em;
+  margin-bottom: 20px;
+  color: #fff;
+  font-size: 1em;
+}
+
+.info_reveal p {
+  padding: 0 8px;
+  font-size: 15px;
+  line-height: 1.2em;
+  color: #073a2e;
+  font-weight: 400;
+}
+
+.info_reveal a {
+  color: #073a2e;
+  word-break: break-word;
+  text-decoration: none;
+}
+
+.info_reveal a:hover {
+  color: #073a2e;
+}
+
+.responsive_grid {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.responsive_grid li {
+  cursor: pointer;
+  width: 16.66667%;
+  padding: 0 10px 10px;
+  display: block;
+  height: auto;
+  float: left;
+  margin-bottom: 10px;
+  text-indent: 0;
+}
+.responsive_grid li:before {
+  content: none;
+}
+.responsive_grid li:hover .info_reveal,
+.responsive_grid li:focus .info_reveal {
+  left: 0;
+  top: 0;
+  transition: all 0.3s ease-out 0.1s;
+  -moz-transition: all 0.3s ease-out 0.1s;
+  -webkit-transition: all 0.3s ease-out 0.1s;
+}
+
+.responsive_grid li:hover .info img,
+.responsive_grid li:focus .info img {
+  width: 210%;
+  margin-left: -50%;
+  transition: all 0.4s ease-in 0s;
+  -moz-transition: all 0.4s ease-in 0s;
+  -webkit-transition: all 0.4s ease-in 0s;
+}
+
+.responsive_grid li:hover .info h5,
+.responsive_grid li:focus .info h5,
+.responsive_grid li:hover .info h6,
+.responsive_grid li:focus .info h6 {
+  opacity: 0;
+  transition: opacity 0.2s linear 0s;
+  -moz-transition: opacity 0.2s linear 0s;
+  -webkit-transition: opacity 0.2s linear 0s;
+}
